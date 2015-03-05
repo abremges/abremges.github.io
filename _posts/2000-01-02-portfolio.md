@@ -5,16 +5,4 @@ color: black
 fa-icon: code
 ---
 
-I'm a 22-year-old UX designer from northern Utah. I will be graduating from <a href="http://web.mit.edu" target="_blank">MIT</a> in 2016 with a degree in <a href="http://act.mit.edu" target="_blank">Art, Culture, and Technology</a>, with a concentration in writing.
-
-<br/>
-
-HTML & CSS are my favorite tools. Scalability and responsiveness are paramount. I like Sublime Text 2 and I use the <a href="http://en.wikipedia.org/wiki/Indent_style#Variant:_1TBS" target="_blank">One True Brace Style</a>.
-
-<br/>
-
-I like <a href="http://stronglifts.com" target="_blank">weightlifting</a> and riding my fixed gear bike. I bake *really* good lemon bars. I write <a href="http://poetry.liabogoev.com" target="_blank">poetry</a>. My favorite subreddit is <a href="http://www.reddit.com/r/showerthoughts" target="_blank">/r/showerthoughts</a> I love the snow, and I can't wait to get a dog.
-
-<br/>
-
-I want to make the human experience better.
+foo bar
