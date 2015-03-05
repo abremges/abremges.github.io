@@ -15,9 +15,9 @@ highlighter: pygments
 
 
 ### content configuration ###
-title:       "SinglePaged - Simple Jekyll template"
-keywords:    "SinglePaged, jekyll, template, github, blog, single page"
-description: "A single-page template for Jekyll based blogs (like what you'd use on github pages!)"
+title:       "Lia Bogoev"
+keywords:    "lia, Bogoev, template, github, design, ux, ui, single page"
+description: "Landing page of Lia Bogoev."
 source_link: "https://github.com/t413/SinglePaged"
 favicon:     "img/favicon.ico"
 touch_icon:  "img/apple-touch-icon.png"
@@ -26,21 +26,18 @@ google_analytics_key: UA-60416689-1 ## put YOUR key here to enable tracking! (bl
 
 ### template colors, used site-wide via css ###
 colors:
-  black:     '#111111'
-  white:     '#f8f8f8'
-  blue:      '#49a7e9'
-  green:     '#9bcf2f'
-  purple:    '#c869bf'
-  orange:    '#fab125'
-  turquoise: '#0fbfcf'
-  spectral1: '#9e0142'
-  spectral2: '#d53e4f'
-  spectral3: '#f46d43'
-  spectral4: '#fdae61'
-  spectral5: '#fee08b'
-  spectral6: '#ffffbf'
-  spectral7: '#e6f598'
-  spectral8: '#abdda4'
-  spectral9: '#66c2a5'
-  spectralA: '#3288bd'
-  spectralB: '#5e4fa2'
+  black:		'#2C2B29'
+  white:		'#F3EDE1'
+  briwhite: '#FFFFFF'
+  warmgray1:		'#A9A59D'
+  warmgray2:		'#78746F'
+  warmgray3:		'#4B4945'
+  gray1:    '#EFEFEF'
+  gray2:    '#DEDEDE'
+  gray3:    '#CDCDCD'
+  red:      '#FF3636'
+  blue:			'#49a7e9'
+  green:		'#9bcf2f'
+  purple:		'#c869bf'
+  orange:		'#fab125'
+  turquoise:	'#0fbfcf'

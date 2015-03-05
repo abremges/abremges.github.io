@@ -115,13 +115,13 @@ hr {
 {% assign navborder_active = 6 %}
 
 nav {
-  font-size:15px;
+  font-size:12px;
   width:100%;
   position:fixed;
   z-index:100;
   top:0;
   left:0;
-  background:#2e2e2e;
+  background:rgba(255,255,255,0.5);
 }
 
 nav ul {
@@ -142,19 +142,20 @@ nav ul li {
   letter-spacing:normal;
   text-transform:uppercase;
   min-width:110px;
-  line-height:60px;
+  line-height:40px;
   margin:0;
 }
 
 nav ul li a, nav ul li a:visited {
   display:block;
-  color:#fff;
+  color:#2C2B29 !important;
   text-decoration:none;
   font-weight:600;
   opacity:.75;
 }
 
 nav ul li a:hover {
+  text-decoration: none !important;
   opacity:1
 }
 nav ul li:hover, nav ul li.active {
@@ -170,7 +171,7 @@ nav ul li:hover, nav ul li.active {
   display:block;
   width:100%;
   min-height:300px;
-  padding:210px 0;
+  padding:100px 0px 210px 0px;
   background:url(img/bgnoise.png);
   /* generated noise from noisetexturegenerator.com */
 }
@@ -181,64 +182,57 @@ nav ul li:hover, nav ul li.active {
 
 
 #footer {
-  padding: 8px 0;
+  color:#999;
+  padding: 4px 0;
   min-height:0;
   text-align:center;
-  background-color:#2e2e2e;
+  background-color:#2C2B29;
   background-image:none;
 }
-#footer .container p { font-size:13px; margin:0; }
+#footer .container p { font-size:10px; margin:0; }
 
 .subtlecircle {
   text-align:center;
   z-index:3;
+
   border-radius:50%;
   -moz-border-radius:50%;
   -webkit-border-radius:50%;
-  box-shadow: 0px 1px 15px rgba(0,0,0,0.05);
-  background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUAAAAFCAYAAACNbyblAAAAF0lEQVQIHWP8//+/MQMaYELjg7kUCgIASm8DOqGzfp8AAAAASUVORK5CYII=);
+  background:rgba(255,54,54,1);
 }
 
 .sectiondivider {
-  width:270px;
-  height:270px;
-  padding:15px;
+  width:160px;
+  height:160px;
+  padding:0px;
   position:absolute;
-  top:-135px;
+  top:-80px;
   left:50%;
-  margin-left:-135px;
-}
+  margin-left:-80px;
 
-.sectiondivider img {
-  width:200px;
-  height:240px;
-  position: static;
-  margin-top: -20px;
 }
 
 .sectiondivider .fa-stack {
-  font-size: 130px;
+  font-size: 70px;
   position: static;
-  margin-top: -8px;
+  margin-top: -2px;
 }
-.sectiondivider .fa-circle { color: #fff; }
+.sectiondivider .fa-circle { color: #424242; }
 
 .sectiondivider h5 {
-  font-size:15px;
-  font-weight:700;
+  font-size:20px;
+  color:#000;
+  font-weight:400;
   text-transform:uppercase;
   position:absolute;
-  bottom:50px;
-  left:auto;
+  bottom:70px;
   text-align:center;
   display:block;
   z-index:6;
-  width:240px;
+  width:160px;
+
 }
 
-.sectiondivider.imaged {
-  text-shadow: 1px 1px 3px #333;
-}
 
 .columned {
   -webkit-column-count: 3;
@@ -256,6 +250,12 @@ nav ul li:hover, nav ul li.active {
 .longlist { font-size: 14px !important; }
 .longlist li { margin-bottom: 3px; }
 
+.contacticon {
+  font-size: 60px;
+  display:block;
+  margin: 10px;
+}
+
 /* mid size (tablets, landscapes) */
 @media only screen and (max-width: 679px) {
   nav { font-size:11px; }
@@ -267,7 +267,7 @@ nav ul li:hover, nav ul li.active {
 
 /* tiny size (phones) */
 @media only screen and (max-width: 380px) {
-  nav ul li { min-width:90px; line-height:20px; }
+  nav ul li { min-width:80px; line-height:20px; }
 }
 
 /* anything not desktop */
@@ -280,24 +280,17 @@ nav ul li:hover, nav ul li.active {
 
   .section { padding:130px 0; }
   .sectiondivider {
-    width:200px;
-    height:200px;
-    padding:15px;
-    top:-100px;
-    margin-left:-100px;
+    width:120px;
+    height:120px;
+    padding:0px;
+    top:-60px;
+    margin-left:-60px;
   }
-  .sectiondivider img {
-    width:150px;
-    height:180px;
-  }
-  .sectiondivider .fa-stack {
-    font-size: 100px;
-    margin-top: -14px;
-  }
+
   .sectiondivider h5 {
-    font-size:15px;
-    bottom:30px;
-    width:170px
+    font-size:16px;
+    bottom:50px;
+    width:120px
   }
 
   .columned {
