@@ -1,3 +1,4 @@
-Design by Tim O'Brien [t413.com](http://t413.com/)
+Design by [Tim O'Brien](http://t413.com/)
 &mdash; the [SinglePaged theme](https://github.com/t413/SinglePaged)
-&mdash; modified by [Lia Bogoev](https://github.com/bogoli) with a minimized and monochrome UI.
+&mdash; modified by [Lia Bogoev](http://bogoli.github.io/)
+&mdash; licensed under [the MIT license](http://opensource.org/licenses/MIT).
