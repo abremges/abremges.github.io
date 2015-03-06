@@ -1,4 +1,12 @@
-Design by [Tim O'Brien](http://t413.com/)
-&mdash; the [SinglePaged theme](https://github.com/t413/SinglePaged)
-&mdash; modified by [Lia Bogoev](http://bogoli.github.io/)
-&mdash; licensed under [the MIT license](http://opensource.org/licenses/MIT).
+Andreas Bremges
+&mdash;
+Copyright &copy; 2015
+
+<ul class="social-list">
+  <li>
+    <a href="https://github.com/abremges"><i class="fa fa-github fa-2x text-white"></i></a>
+  </li>
+  <li>
+    <a href="https://twitter.com/abremges"><i class="fa fa-twitter fa-2x text-white"></i></a>
+  </li>
+</ul>
