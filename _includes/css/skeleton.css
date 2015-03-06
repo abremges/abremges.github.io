@@ -11,13 +11,14 @@
 /* ----- base grid----- */
 
 .container               { position: relative; width: 960px; margin: 0 auto; padding: 0; }
-.container .column       { float: left; display: inline-block; margin-left: 10px; margin-right: 10px; }
+.container .column       { float: left; display: inline; margin-left: 10px; margin-right: 10px; }
 .row                     { margin-bottom: 20px; }
 
 .container .small.column { width: 300px; }
 .container .half.column  { width: 460px; }
 .container .big.column   { width: 620px; }
 .container .full.column  { width: 940px; }
+.container .halfx.column { width: 460px; }
 
 
 /* ----- Tablet (Portrait) -- 768px ----- */
