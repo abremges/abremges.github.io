@@ -5,8 +5,12 @@ color: black
 fa-icon: code
 ---
 
-Describe ongoing projects.
+foo
 
 <br/>
 
-Ph.D. student in bioinformatics: metagenomics & single cell genomics.
+bar
+
+<br/>
+
+baz
