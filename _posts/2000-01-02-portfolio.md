@@ -5,12 +5,12 @@ color: black
 fa-icon: code
 ---
 
-foo
+FOO
 
 <br/>
 
-bar
+BAR
 
 <br/>
 
-baz
+BAZ
