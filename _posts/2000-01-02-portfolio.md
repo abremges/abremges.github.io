@@ -1,6 +1,6 @@
 ---
 title: "projects"
-bg: gray1
+bg: Gy1
 color: black
 fa-icon: code
 ---
