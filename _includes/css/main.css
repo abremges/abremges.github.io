@@ -148,7 +148,7 @@ nav ul li {
 
 nav ul li a, nav ul li a:visited {
   display:block;
-  color:#2C2B29 !important;
+  color:#1a1a1a !important;
   text-decoration:none;
   font-weight:600;
   opacity:.75;
@@ -186,7 +186,7 @@ nav ul li:hover, nav ul li.active {
   padding: 4px 0;
   min-height:0;
   text-align:center;
-  background-color:#2C2B29;
+  background-color:#1a1a1a;
   background-image:none;
 }
 #footer .container p { font-size:10px; margin:0; }
