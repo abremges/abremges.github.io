@@ -1,6 +1,6 @@
 ---
 title: "projects"
-bg: '#abdda4'
+bg: gray1
 color: black
 fa-icon: code
 ---
