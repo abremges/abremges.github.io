@@ -1,1 +1,3 @@
-Design by [Tim O’Brien](https://github.com/t413) &mdash; modified by [Lia Bogoev](https://github.com/bogoli) &mdash; licensed under [the MIT license](http://opensource.org/licenses/MIT).
+This site is [open source](https://github.com/abremges/abremges.github.io)
+&mdash;
+Last updated: {{ site.time | date: "%b %d, %Y" }}
