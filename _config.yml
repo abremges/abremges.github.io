@@ -16,8 +16,8 @@ highlighter: pygments
 
 ### content configuration ###
 title:       "Andreas Bremges"
-keywords:    "andreas, bremges, bioinformatics, metagenomics, single cell, assembly, microbial dark matter"
-description: "Personal homepage of Andreas Bremges."
+keywords:    "andreas, bremges, bioinformatics, metagenomics, single cell genomics, genome assembly, microbial dark matter"
+description: "Ph.D. student in bioinformatics: metagenomics & single cell genomics"
 source_link: "https://github.com/abremges/abremges.github.io"
 favicon:     "img/favicon.ico"
 touch_icon:  "img/apple-touch-icon.png"
