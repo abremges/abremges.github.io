@@ -1,5 +1,5 @@
 ---
-title: "work"
+title: "experience"
 bg: gray1
 color: black
 fa-icon: code
