@@ -9,7 +9,7 @@ fa-icon: code
 2015&ndash;
 
 
-As a member of the German Center for Infection Research bioinformatics platform, it is my task to bridge the gap between established bioinformatics and the medical data from clinical research. I am mainly involved in meta'omics projects and implement an end-to-end metagenome analysis pipeline in my spare time.
+As a member of the German Center for Infection Research bioinformatics platform, it is my task to bridge the gap between established bioinformatics and the medical data from clinical research. I am mainly involved in meta'omics projects and implement an end-to-end metagenome analysis pipeline along the way.
 
 Additionally, our team organizes regular <a href="http://www.bioinformatics-platform.dzif.de/?page_id=50" target="_blank">bioinformatics training workshops</a>, covering a broad range of topics from pipeline programming and Linux basics to metagenome analysis and variant calling. If you are interested, please get in touch!
 
