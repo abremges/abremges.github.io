@@ -1,16 +1,26 @@
 ---
-title: "projects"
+title: "work"
 bg: gray1
 color: black
 fa-icon: code
 ---
 
-FOO
+**Software developer in <a href="http://www.helmholtz-hzi.de/en/research/research_topics/bacterial_and_viral_pathogens/computational_biology_of_infection_research/" target="_blank">Alice McHardy's group</a>, Helmholtz Centre for Infection Research**  
+2015&ndash;
 
-<br/>
 
-BAR
+As a member of the German Center for Infection Research bioinformatics platform, it is my task to bridge the gap between established bioinformatics and the medical data from clinical research. I am mainly involved in meta'omics projects and implement an end-to-end metagenome analysis pipeline in my spare time.
 
-<br/>
+Additionally, our team organizes regular <a href="http://www.bioinformatics-platform.dzif.de/?page_id=50" target="_blank">bioinformatics training workshops</a>, covering a broad range of topics from pipeline programming and Linux basics to metagenome analysis and variant calling. If you are interested, please get in touch!
 
-BAZ
+<br/><br/>
+**Ph.D. student in <a href="http://www.cebitec.uni-bielefeld.de/cmg/" target="_blank">Alex Sczyrba's group</a>, Bielefeld University**  
+2011&ndash;
+
+
+Supported by a fellowship of the *CLIB Graduate Cluster Industrial Biotechnology*, I developed new tools for the combined analysis of metagenomic and single cell sequencing data. I was happy to collaborate with <a href="http://jgi.doe.gov/about-us/organization/prokaryote-super-program/tanja-woyke/" target="_blank">Tanja Woyke's group</a> at the DOE Joint Genome Institute on this. More details will follow soon, we are currently in the process of writing a joint paper.
+
+In a second big project, we sampled multiple production-scale biogas plants in Germany and sequenced their metagenomes and metatranscriptomes. Combined, these data will enable a deeper exploration of the biogas-producting microbial community, with the objective to develop rational strategies for process optimization.
+
+<br/><br/>
+**<a href="/abremges.pdf" target="_blank">Download a resume</a>**
