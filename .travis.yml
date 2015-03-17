@@ -9,4 +9,4 @@ env:
 
 notifications:
   email:
-    - andreas@bremges.de
+  - andreas@bremges.de
