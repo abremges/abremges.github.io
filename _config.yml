@@ -17,7 +17,7 @@ highlighter: pygments
 ### content configuration ###
 title:       "Andreas Bremges"
 keywords:    "bioinformatics, metagenomics, single cell genomics, microbial dark matter"
-description: "Metagenomics &amp; single cell genomics. Software developer in Alice McHardy's group, Helmholtz Centre for Infection Research. Ph.D. student in Alex Sczyrba's group, Bielefeld University"
+description: "Software developer in Alice McHardy's group, Helmholtz Centre for Infection Research. Ph.D. student in Alex Sczyrba's group, Bielefeld University"
 source_link: "https://github.com/abremges/abremges.github.io"
 favicon:     "img/favicon.ico"
 touch_icon:  "img/apple-touch-icon.png"
