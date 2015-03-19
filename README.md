@@ -2,5 +2,7 @@
 - [Lia Bogoev](https://github.com/bogoli/bogoli.github.io) updated it with a minimized and monochrome UI,
 - and [Peter Solymos](https://github.com/psolymos/psolymos.github.io) designed the two-column layout at the top.
 
+**Powered by [Jekyll](http://jekyllrb.com) and [GitHub Pages](https://pages.github.com/).**
+
 
 [![Build Status](https://travis-ci.org/abremges/abremges.github.io.svg)](https://travis-ci.org/abremges/abremges.github.io)
