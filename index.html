@@ -10,7 +10,7 @@
 	<meta name="description" content="{{ site.description }}">
   <link rel="stylesheet" href="combo.css">
   <!--
-  <link href='http://fonts.googleapis.com/css?family=Raleway:400,300,700' rel='stylesheet' type='text/css'>
+  <link href='//fonts.googleapis.com/css?family=Raleway:400,300,700' rel='stylesheet' type='text/css'>
   -->
   <link href='//fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600' rel='stylesheet' type='text/css'>
   <link rel="stylesheet" href="//netdna.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css">
@@ -37,12 +37,12 @@
           <img src="{{page.icon}}" alt="section icon" /> -->
           <h5 class="icon-title">{{ page.title }}</h5>
         </div>
-        
-        
+
+
         {% elsif page.fa-icon %}
         <div class="subtlecircle sectiondivider faicon">
           <h5 class="icon-title">{{ page.title }}</h5>
-            <!-- 
+            <!--
             <span class="fa-stack">
               <i class="fa fa-stack-2x"></i>
               <i class="fa fa-{{ page.fa-icon }} fa-stack-1x"></i>
@@ -51,7 +51,7 @@
             -->
         </div>
         {% endif %}
-        
+
         <div class="container {{ page.style }}">
           {{ page.content }}
         </div>
