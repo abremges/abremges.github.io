@@ -9,7 +9,7 @@ fa-icon: navicon
 **Bremges, A**, Jarett, J, Woyke, T, Sczyrba, A **(2015)**. *In preparation.*
 
 <br/><br/>
-**The metagenome and metatranscriptome of a biogas-producing microbial community from an agricultural production-scale biogas plant**  
+**Deeply sequenced metagenome and metatranscriptome of a biogas-producing microbial community from an agricultural production-scale biogas plant**  
 **Bremges, A**, Maus, I, Eikmeyer, F, Winkler, A, Albersmeier, A, Pühler, A, Schlüter, A, Sczyrba, A **(2015)**. *In preparation.*
 
 <br/><br/>
