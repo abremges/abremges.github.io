@@ -13,6 +13,10 @@ fa-icon: navicon
 **Bremges, A**, Maus, I, Eikmeyer, F, Winkler, A, Albersmeier, A, Pühler, A, Schlüter, A, Sczyrba, A **(2015)**. *In preparation.*
 
 <br/><br/>
+**Fractionation of biogas plant sludge material improves metaproteomic characterization to investigate metabolic activity of microbial communities**  
+Kohrs, F, Wolter, S, Benndorf, D, Heyer, R, Hoffmann, M, Rapp, E, **Bremges, A**, Sczyrba, A, Schlüter, A, and Reichl, U **(2015)**. *Submitted.*
+
+<br/><br/>
 **<a href="http://dx.doi.org/10.1016/j.jbiotec.2014.02.004" target="_blank">Complete genome sequence of the cyanide-degrading bacterium *Pseudomonas pseudoalcaligenes* CECT5344</a>**  
 Wibberg, D, Luque-Almagro, VM, Igeño, MI, **Bremges, A**, Roldán, MD, Merchán, F, Sáez, LP, Guijo, MI, Manso, MI, Macías, D, Cabello, P, Becerra, G, Ibáñez, MI, Carmona, MI, Escribano, MM, Castillo, F, Sczyrba, A, Moreno-Vivián, C, Blasco, R, Pühler, A, Schlüter, A **(2014)**. *Journal of Biotechnology*, 175:67-8.
 
