@@ -13,7 +13,7 @@ fa-icon: navicon
 Kohrs, F, Wolter, S, Benndorf, D, Heyer, R, Hoffmann, M, Rapp, E, **Bremges, A**, Sczyrba, A, Schlüter, A, and Reichl, U **(2015)**. *Submitted.*
 
 <br/><br/>
-**<a href="/bremges_gigascience_2015.pdf" target="_blank">Deeply sequenced metagenome and metatranscriptome of a biogas-producing microbial community from an agricultural production-scale biogas plant</a>**  
+**<a href="/2015-biogas-cebitec.pdf" target="_blank">Deeply sequenced metagenome and metatranscriptome of a biogas-producing microbial community from an agricultural production-scale biogas plant</a>**  
 **Bremges, A**, Maus, I, Eikmeyer, F, Winkler, A, Albersmeier, A, Pühler, A, Schlüter, A, Sczyrba, A **(2015)**. *Submitted.*
 
 <br/><br/>
