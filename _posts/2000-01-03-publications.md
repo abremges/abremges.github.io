@@ -14,7 +14,7 @@ Kohrs, F, Wolter, S, Benndorf, D, Heyer, R, Hoffmann, M, Rapp, E, **Bremges, A**
 
 <br/><br/>
 **<a href="/2015-biogas-cebitec.pdf" target="_blank">Deeply sequenced metagenome and metatranscriptome of a biogas-producing microbial community from an agricultural production-scale biogas plant</a>**  
-**Bremges, A**, Maus, I, Eikmeyer, FG, Winkler, A, Albersmeier, A, Pühler, A, Schlüter, A, Sczyrba, A **(2015)**. *Submitted.*
+**Bremges, A**, Maus, I, Belmann, P, Eikmeyer, FG, Winkler, A, Albersmeier, A, Pühler, A, Schlüter, A, Sczyrba, A **(2015)**. *Submitted.*
 
 <br/><br/>
 **<a href="http://dx.doi.org/10.1016/j.jbiotec.2014.02.004" target="_blank">Complete genome sequence of the cyanide-degrading bacterium *Pseudomonas pseudoalcaligenes* CECT5344</a>**  
