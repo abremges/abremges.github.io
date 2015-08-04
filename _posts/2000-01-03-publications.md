@@ -5,7 +5,7 @@ color: black
 fa-icon: navicon
 ---
 
-**Metagenomic proxy assemblies of single cell genomes**  
+**<a href="https://bremges.de" target="_blank">Metagenomic proxy assemblies of single cell genomes</a>**  
 **Bremges, A**, Jarett, J, Woyke, T, Sczyrba, A **(2015)**. *In preparation.*
 
 <br/><br/>
