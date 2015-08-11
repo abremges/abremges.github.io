@@ -10,7 +10,7 @@ fa-icon: navicon
 
 <br/><br/>
 **<a href="https://github.com/bioboxes/commentary-article/blob/master/article.mkd" target="_blank">Bioboxes - standardised containers for interchangeable bioinformatics software</a>**  
-Belmann, P, Dröge, J, **Bremges, A**, McHardy, AC, Sczyrba, A, Barton, M **(2015)**. *In preparation.*
+Belmann, P, Dröge, J, **Bremges, A**, McHardy, AC, Sczyrba, A, Barton, M **(2015)**. *Submitted.*
 
 <br/><br/>
 **<a href="http://dx.doi.org/10.1186/s13742-015-0073-6" target="_blank">Deeply sequenced metagenome and metatranscriptome of a biogas-producing microbial community from an agricultural production-scale biogas plant</a>**  
