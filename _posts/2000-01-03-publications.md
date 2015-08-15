@@ -9,7 +9,7 @@ fa-icon: navicon
 **Bremges, A**, Jarett, J, Woyke, T, Sczyrba, A **(2015)**. *In preparation.*
 
 <br/><br/>
-**<a href="https://github.com/bioboxes/commentary-article/blob/master/article.mkd" target="_blank">Bioboxes - standardised containers for interchangeable bioinformatics software</a>**  
+**<a href="https://github.com/bioboxes/commentary-article/blob/master/article.md" target="_blank">Bioboxes - standardised containers for interchangeable bioinformatics software</a>**  
 Belmann, P, Dröge, J, **Bremges, A**, McHardy, AC, Sczyrba, A, Barton, MD **(2015)**. *Submitted.*
 
 <br/><br/>
