@@ -10,15 +10,15 @@ fa-icon: navicon
 
 <br/><br/>
 **<a href="https://github.com/bioboxes/commentary-article/blob/master/article.md" target="_blank">Bioboxes: standardised containers for interchangeable bioinformatics software</a>**  
-Belmann, P, Dröge, J, **Bremges, A**, McHardy, AC, Sczyrba, A, Barton, MD **(2015)**. *Submitted.*
-
-<br/><br/>
-**<a href="http://dx.doi.org/10.1186/s13742-015-0073-6" target="_blank">Deeply sequenced metagenome and metatranscriptome of a biogas-producing microbial community from an agricultural production-scale biogas plant</a>**  
-**Bremges, A**, Maus, I, Belmann, P, Eikmeyer, FG, Winkler, A, Albersmeier, A, Pühler, A, Schlüter, A, Sczyrba, A **(2015)**. *GigaScience*, 4:33.
+Belmann, P, Dröge, J, **Bremges, A**, McHardy, AC, Sczyrba, A, Barton, MD **(2015)**. *GigaScience*, in press.
 
 <br/><br/>
 **<a href="http://dx.doi.org/10.1002/pmic.201400557" target="_blank">Fractionation of biogas plant sludge material improves metaproteomic characterization to investigate metabolic activity of microbial communities</a>**  
 Kohrs, F, Wolter, S, Benndorf, D, Heyer, R, Hoffmann, M, Rapp, E, **Bremges, A**, Sczyrba, A, Schlüter, A, Reichl, U **(2015)**. *Proteomics*.
+
+<br/><br/>
+**<a href="http://dx.doi.org/10.1186/s13742-015-0073-6" target="_blank">Deeply sequenced metagenome and metatranscriptome of a biogas-producing microbial community from an agricultural production-scale biogas plant</a>**  
+**Bremges, A**, Maus, I, Belmann, P, Eikmeyer, FG, Winkler, A, Albersmeier, A, Pühler, A, Schlüter, A, Sczyrba, A **(2015)**. *GigaScience*, 4:33.
 
 <br/><br/>
 **<a href="http://dx.doi.org/10.1016/j.jbiotec.2014.02.004" target="_blank">Complete genome sequence of the cyanide-degrading bacterium *Pseudomonas pseudoalcaligenes* CECT5344</a>**  
