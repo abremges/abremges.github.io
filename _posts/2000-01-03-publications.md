@@ -5,8 +5,12 @@ color: black
 fa-icon: navicon
 ---
 
-**<a href="/bremges_gi2014.pdf" target="_blank">Metagenomic proxy assemblies of single cell genomes</a>**  
+**Metagenomic proxy assemblies of single cell genomes**  
 **Bremges, A**, Jarett, J, Woyke, T, Sczyrba, A **(2015)**. *In preparation.*
+
+<br/><br/>
+**Genomic characterization of *Defluviitoga tunisiensis* L3, a key player in a thermophilic biogas plant**  
+Maus, I, Cibis KG, **Bremges, A**, Stolze, Y, Wibberg, D, Tomazetto, G, Blom, J, Sczyrba, A, König, H, Pühler, A, Schlüter, A **(2015)**. *In preparation.*
 
 <br/><br/>
 **<a href="https://github.com/bioboxes/commentary-article/blob/master/article.md" target="_blank">Bioboxes: standardised containers for interchangeable bioinformatics software</a>**  
