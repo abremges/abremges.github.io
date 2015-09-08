@@ -19,7 +19,7 @@ Belmann, P, Dröge, J, **Bremges, A**, McHardy, AC, Sczyrba, A, Barton, MD **(20
 <br/><br/>
 **<a href="http://dx.doi.org/10.1186/s13742-015-0073-6" target="_blank">Deeply sequenced metagenome and metatranscriptome of a biogas-producing microbial community from an agricultural production-scale biogas plant</a>**  
 **Bremges, A**, Maus, I, Belmann, P, Eikmeyer, FG, Winkler, A, Albersmeier, A, Pühler, A, Schlüter, A, Sczyrba, A **(2015)**. *GigaScience*, 4:33.  
-<font color="text-red">Highlighted by the editor in *GigsScience*'s *<a href="http://blogs.biomedcentral.com/gigablog/2015/07/30/fermenting-reproducible-research-revolution/" target="_blank">GigaBlog</a>*.</font>
+<font color="text-red">Highlighted by the editor in *GigaScience*'s *<a href="http://blogs.biomedcentral.com/gigablog/2015/07/30/fermenting-reproducible-research-revolution/" target="_blank">GigaBlog</a>*.</font>
 
 <br/><br/>
 **<a href="http://dx.doi.org/10.1002/pmic.201400557" target="_blank">Fractionation of biogas plant sludge material improves metaproteomic characterization to investigate metabolic activity of microbial communities</a>**  
