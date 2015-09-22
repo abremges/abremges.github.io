@@ -9,7 +9,7 @@ fa-icon: navicon
 **Bremges, A**, Jarett, J, Woyke, T, Sczyrba, A **(2015)**. *In preparation.*
 
 <br/><br/>
-**Genomic characterization of Defluviitoga tunisiensis L3, a key hydrolytic bacterium in a thermophilic biogas plant**  
+**Genomic characterization of *Defluviitoga tunisiensis* L3, a key hydrolytic bacterium in a thermophilic biogas plant**  
 Maus, I, Cibis KG, **Bremges, A**, Stolze, Y, Wibberg, D, Tomazetto, G, Blom, J, Sczyrba, A, König, H, Pühler, A, Schlüter, A **(2015)**. *Submitted.*
 
 <br/><br/>
