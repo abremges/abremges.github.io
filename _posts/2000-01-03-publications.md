@@ -10,7 +10,7 @@ fa-icon: navicon
 
 <br/><br/>
 **Genomic characterization of Defluviitoga tunisiensis L3, a key hydrolytic bacterium in a thermophilic biogas plant**  
-Maus, I, Cibis KG, **Bremges, A**, Stolze, Y, Wibberg, D, Tomazetto, G, Blom, J, Sczyrba, A, König, H, Pühler, A, Schlüter, A **(2015)**. *In preparation.*
+Maus, I, Cibis KG, **Bremges, A**, Stolze, Y, Wibberg, D, Tomazetto, G, Blom, J, Sczyrba, A, König, H, Pühler, A, Schlüter, A **(2015)**. *Submitted.*
 
 <br/><br/>
 **<a href="https://github.com/bioboxes/commentary-article/blob/master/article.md" target="_blank">Bioboxes: standardised containers for interchangeable bioinformatics software</a>**  
