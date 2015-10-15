@@ -13,8 +13,8 @@ fa-icon: navicon
 Maus, I, Cibis KG, **Bremges, A**, Stolze, Y, Wibberg, D, Tomazetto, G, Blom, J, Sczyrba, A, König, H, Pühler, A, Schlüter, A **(2015)**. *Submitted.*
 
 <br/><br/>
-**<a href="https://github.com/bioboxes/commentary-article/blob/master/article.md" target="_blank">Bioboxes: standardised containers for interchangeable bioinformatics software</a>**  
-Belmann, P, Dröge, J, **Bremges, A**, McHardy, AC, Sczyrba, A, Barton, MD **(2015)**. *GigaScience*, in press.
+**<a href="http://dx.doi.org/10.1186/s13742-015-0087-0" target="_blank">Bioboxes: standardised containers for interchangeable bioinformatics software</a>**  
+Belmann, P, Dröge, J, **Bremges, A**, McHardy, AC, Sczyrba, A, Barton, MD **(2015)**. *GigaScience*, 4:47.
 
 <br/><br/>
 **<a href="http://dx.doi.org/10.1186/s13742-015-0073-6" target="_blank">Deeply sequenced metagenome and metatranscriptome of a biogas-producing microbial community from an agricultural production-scale biogas plant</a>**  
@@ -22,7 +22,7 @@ Belmann, P, Dröge, J, **Bremges, A**, McHardy, AC, Sczyrba, A, Barton, MD **(20
 
 <br/><br/>
 **<a href="http://dx.doi.org/10.1002/pmic.201400557" target="_blank">Fractionation of biogas plant sludge material improves metaproteomic characterization to investigate metabolic activity of microbial communities</a>**  
-Kohrs, F, Wolter, S, Benndorf, D, Heyer, R, Hoffmann, M, Rapp, E, **Bremges, A**, Sczyrba, A, Schlüter, A, Reichl, U **(2015)**. *Proteomics*, in press.
+Kohrs, F, Wolter, S, Benndorf, D, Heyer, R, Hoffmann, M, Rapp, E, **Bremges, A**, Sczyrba, A, Schlüter, A, Reichl, U **(2015)**. *Proteomics*, 15:3585–9.
 
 <br/><br/>
 **<a href="http://dx.doi.org/10.1016/j.jbiotec.2014.02.004" target="_blank">Complete genome sequence of the cyanide-degrading bacterium *Pseudomonas pseudoalcaligenes* CECT5344</a>**  
