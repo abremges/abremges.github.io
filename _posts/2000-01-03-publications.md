@@ -9,7 +9,11 @@ fa-icon: navicon
 **Bremges, A**, Jarett, J, Woyke, T, Sczyrba, A **(2015)**. *In preparation.*
 
 <br/><br/>
-**Genomic characterization of *Defluviitoga tunisiensis* L3, a key hydrolytic bacterium originating from a thermophilic production-scale biogas plant**  
+**Finished genome sequence and methylome of the cyanide-degrading *Pseudomonas pseudoalcaligenes* strain CECT5344 as resolved by single-molecule real-time sequencing**  
+Wibberg, D, **Bremges, A**, Dammann-Kalinowski, T, Maus, I, Igeño, I, Vogelsang, R, König, C, Sczyrba, A, Blasco, R, Pühler, A, Schlüter, A **(2015)**. *Submitted.*
+
+<br/><br/>
+**Genomic characterization and abundance of *Defluviitoga tunisiensis* L3, a key hydrolytic bacterium in a thermophilic biogas plant**  
 Maus, I, Cibis KG, **Bremges, A**, Stolze, Y, Wibberg, D, Tomazetto, G, Blom, J, Sczyrba, A, König, H, Pühler, A, Schlüter, A **(2015)**. *Submitted.*
 
 <br/><br/>
