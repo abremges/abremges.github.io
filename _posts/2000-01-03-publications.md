@@ -5,15 +5,15 @@ color: black
 fa-icon: navicon
 ---
 
-**MeCorS: Metagenome-enabled error correction of single cell sequencing reads**  
+**<a href="https://github.com/metagenomics/MeCorS" target="_blank">MeCorS: Metagenome-enabled error correction of single cell sequencing reads</a>**  
 __Bremges, A__, Singer, E, Woyke, T, Sczyrba, A **(2015)**. *In preparation.*
 
 <br/><br/>
-**Finished genome sequence and methylome of the cyanide-degrading *Pseudomonas pseudoalcaligenes* strain CECT5344 as resolved by single-molecule real-time sequencing**  
+**<a href="https://github.com/abremges/2015-pseudo" target="_blank">Finished genome sequence and methylome of the cyanide-degrading *Pseudomonas pseudoalcaligenes* strain CECT5344 as resolved by single-molecule real-time sequencing</a>**  
 Wibberg, D\*, __Bremges, A\*__, Dammann-Kalinowski, T, Maus, I, Igeño, I, Vogelsang, R, König, C, Sczyrba, A, Blasco, R, Pühler, A, Schlüter, A **(2015)**. *Submitted.*
 
 <br/><br/>
-**Genomic characterization and abundance of *Defluviitoga tunisiensis* L3, a key hydrolytic bacterium in a thermophilic biogas plant**  
+**<a href="https://www.youtube.com/watch?v=DLzxrzFCyOs" target="_blank">Genomic characterization and abundance of *Defluviitoga tunisiensis* L3, a key hydrolytic bacterium in a thermophilic biogas plant</a>**  
 Maus, I, Cibis KG, __Bremges, A__, Stolze, Y, Wibberg, D, Tomazetto, G, Blom, J, Sczyrba, A, König, H, Pühler, A, Schlüter, A **(2015)**. *Submitted.*
 
 <br/><br/>
@@ -22,7 +22,7 @@ Belmann, P, Dröge, J, __Bremges, A__, McHardy, AC, Sczyrba, A, Barton, MD **(20
 
 <br/><br/>
 **<a href="http://dx.doi.org/10.1186/s13742-015-0073-6" target="_blank">Deeply sequenced metagenome and metatranscriptome of a biogas-producing microbial community from an agricultural production-scale biogas plant</a>**  
-__Bremges, A__, Maus, I, Belmann, P, Eikmeyer, FG, Winkler, A, Albersmeier, A, Pühler, A, Schlüter, A, Sczyrba, A **(2015)**. *GigaScience*, 4:33.
+__Bremges, A__, Maus, I, Belmann, P, Eikmeyer, FG, Winkler, A, Albersmeier, A, Pühler, A, Schlüter, A\*, Sczyrba, A\* **(2015)**. *GigaScience*, 4:33.
 
 <br/><br/>
 **<a href="http://dx.doi.org/10.1002/pmic.201400557" target="_blank">Fractionation of biogas plant sludge material improves metaproteomic characterization to investigate metabolic activity of microbial communities</a>**  
