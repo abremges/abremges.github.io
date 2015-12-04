@@ -10,7 +10,7 @@ __Bremges, A__, Singer, E, Woyke, T, Sczyrba, A **(2015)**. *In preparation.*
 
 <br/><br/>
 **Finished genome sequence and methylome of the cyanide-degrading *Pseudomonas pseudoalcaligenes* strain CECT5344 as resolved by single-molecule real-time sequencing**  
-Wibberg, D\*, __Bremges, A\*__, Dammann-Kalinowski, T, Maus, I, Igeño, I, Vogelsang, R, König, C, Sczyrba, A, Blasco, R, Pühler, A, Schlüter, A **(2015)**. *Submitted.*
+Wibberg, D\*, __Bremges, A__\*, Dammann-Kalinowski, T, Maus, I, Igeño, I, Vogelsang, R, König, C, Sczyrba, A, Blasco, R, Pühler, A, Schlüter, A **(2015)**. *Submitted.*
 
 <br/><br/>
 **Genomic characterization and abundance of *Defluviitoga tunisiensis* L3, a key hydrolytic bacterium in a thermophilic biogas plant**  
@@ -38,4 +38,4 @@ Gillett, A, Bergman, P, Parsa, R, __Bremges, A__, Giegerich, R, Jagodic, M **(20
 
 <br/><br/>
 **<a href="http://dx.doi.org/10.1186/1471-2105-11-222" target="_blank">Fine-tunig structural RNA alignments in the twilight zone</a>**  
-__Bremges, A\*__, Schirmer, S\*, Giegerich, R **(2010)**. *BMC Bioinformatics*, 11:222.
+__Bremges, A__\*, Schirmer, S\*, Giegerich, R **(2010)**. *BMC Bioinformatics*, 11:222.
