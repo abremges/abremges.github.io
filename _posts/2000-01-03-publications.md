@@ -5,8 +5,8 @@ color: black
 fa-icon: navicon
 ---
 
-**Metagenomic proxy assemblies of single cell genomes**  
-**Bremges, A**, Jarett, J, Woyke, T, Sczyrba, A **(2015)**. *In preparation.*
+**MeCorS: Metagenome-enabled error correction of single cell sequencing reads**  
+**Bremges, A**, Singer, E, Woyke, T, Sczyrba, A **(2015)**. *In preparation.*
 
 <br/><br/>
 **Finished genome sequence and methylome of the cyanide-degrading *Pseudomonas pseudoalcaligenes* strain CECT5344 as resolved by single-molecule real-time sequencing**  
