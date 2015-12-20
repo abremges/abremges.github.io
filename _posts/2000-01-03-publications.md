@@ -6,7 +6,7 @@ fa-icon: navicon
 ---
 
 **<a href="/bremges_gi2014.pdf" target="_blank">Metagenomic proxy assemblies of single cell genomes</a>**  
-__Bremges, A__, Singer, E, Woyke, T, Sczyrba, A **(2016)**. *In preparation.*
+__Bremges, A__, Jarett, J, Woyke, T, Sczyrba, A **(2016)**. *In preparation.*
 
 <br/><br/>
 **<a href="https://github.com/metagenomics/MeCorS" target="_blank">MeCorS: Metagenome-enabled error correction of single cell sequencing reads</a>**  
