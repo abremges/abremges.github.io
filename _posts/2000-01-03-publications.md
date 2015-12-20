@@ -38,7 +38,7 @@ Wibberg, D, Luque-Almagro, VM, Igeño, MI, __Bremges, A__, Roldán, MD, Merchán
 
 <br/><br/>
 **<a href="http://dx.doi.org/10.1371/journal.pone.0081912" target="_blank">A silent exonic SNP in *kdm3a* affects nucleic acids structure but does not regulate experimental autoimmune encephalomyelitis</a>**  
-Gillett, A, Bergman, P, Parsa, R, __Bremges, A__, Giegerich, R, Jagodic, M **(2013)**. *PLOS ONE*, 8, 12:e81912.
+Gillett, A, Bergman, P, Parsa, R, __Bremges, A__, Giegerich, R, Jagodic, M **(2013)**. *PLoS ONE*, 8, 12:e81912.
 
 <br/><br/>
 **<a href="http://dx.doi.org/10.1186/1471-2105-11-222" target="_blank">Fine-tunig structural RNA alignments in the twilight zone</a>**  
