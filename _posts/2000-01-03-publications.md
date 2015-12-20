@@ -6,7 +6,7 @@ fa-icon: navicon
 ---
 
 **<a href="https://github.com/metagenomics/MeCorS" target="_blank">MeCorS: Metagenome-enabled error correction of single cell sequencing reads</a>**  
-__Bremges, A__, Singer, E, Woyke, T, Sczyrba, A **(2015)**. *In preparation.*
+__Bremges, A__, Singer, E, Woyke, T, Sczyrba, A **(2015)**. *Submitted.*
 
 <br/><br/>
 **<a href="https://github.com/abremges/2015-pseudo" target="_blank">Finished genome sequence and methylome of the cyanide-degrading *Pseudomonas pseudoalcaligenes* strain CECT5344 as resolved by single-molecule real-time sequencing</a>**  
