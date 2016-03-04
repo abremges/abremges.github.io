@@ -9,6 +9,7 @@ safe: false
 exclude: [CNAME, LICENSE, README.md, .gitignore, Gemfile, vendor]
 permalink: / ## disables post output
 timezone: null
+future: true
 lsi: false
 markdown: kramdown
 highlighter: rouge
