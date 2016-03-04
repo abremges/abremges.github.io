@@ -9,10 +9,6 @@ fa-icon: navicon
 __Bremges, A__, Jarett, J, Woyke, T, Sczyrba, A **(2016)**. *In preparation.*
 
 <br/><br/>
-**<a href="https://github.com/hzi-bifo/traitar" target="_blank">From genomes to phenotypes: traitar, the microbial trait analyzer</a>**  
-Weimann, A, Frank, J, Pope, PB, __Bremges, A__, McHardy, AC **(2016)**. *In preparation.*
-
-<br/><br/>
 **<a href="https://github.com/metagenomics/MeCorS" target="_blank">MeCorS: Metagenome-enabled error correction of single cell sequencing reads</a>**  
 __Bremges, A__, Singer, E, Woyke, T, Sczyrba, A **(2016)**. *Submitted.*
 
