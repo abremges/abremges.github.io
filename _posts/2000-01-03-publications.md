@@ -9,7 +9,7 @@ fa-icon: navicon
 __Bremges, A__, Jarett, J, Woyke, T, Sczyrba, A **(2016)**. *In preparation.*
 
 <br/><br/>
-**<a href="https://github.com/hzi-bifo/traitar" target="_blank">From genomes to phenotypes: traitar, the microbial trait analyzer</a>**
+**<a href="https://github.com/hzi-bifo/traitar" target="_blank">From genomes to phenotypes: traitar, the microbial trait analyzer</a>**  
 Weimann, A, Frank, J, Pope, PB, __Bremges, A__, McHardy, AC **(2016)**. *In preparation.*
 
 <br/><br/>
