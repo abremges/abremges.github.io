@@ -21,7 +21,7 @@ __Bremges, A__, Singer, E, Woyke, T, Sczyrba, A **(2016)**. *Submitted.*
 Wibberg, D\*, __Bremges, A\*__, Dammann-Kalinowski, T, Maus, I, Igeño, I, Vogelsang, R, König, C, Sczyrba, A, Blasco, R, Pühler, A, Schlüter, A **(2016)**. *Submitted.*
 
 <br/><br/>
-**<a href="https://www.youtube.com/watch?v=DLzxrzFCyOs" target="_blank">Genomic characterization and abundance of *Defluviitoga tunisiensis* L3, a key hydrolytic bacterium in a thermophilic biogas plant</a>**  
+**<a href="https://www.youtube.com/watch?v=DLzxrzFCyOs" target="_blank">Genomic characterization of *Defluviitoga tunisiensis* L3, a key hydrolytic bacterium in a thermophilic biogas plant and its abundance as determined by metagenome fragment recruitment</a>**  
 Maus, I, Cibis KG, __Bremges, A__, Stolze, Y, Wibberg, D, Tomazetto, G, Blom, J, Sczyrba, A, König, H, Pühler, A, Schlüter, A **(2016)**. *Submitted.*
 
 <br/><br/>
