@@ -1,8 +1,4 @@
 <br/><br/>
-**<a href="https://github.com/hzi-bifo/traitar" target="_blank">From genomes to phenotypes: traitar, the microbial trait analyzer</a>**
-Weimann, A, Frank, J, Pope, PB, __Bremges, A__, McHardy, AC **(2016)**. *In preparation.*
-
-<br/><br/>
 **<a href="https://www.youtube.com/watch?v=DLzxrzFCyOs" target="_blank">Integrative metagenome/metaproteome analysis for a biogas production plant revealed abundantly expressed proteins and their genomic context</a>**
 Ortseifen, V, Stolze, Y, Maus, I, Sczyrba, A, __Bremges, A__, Albaum, S, Jaenicke, S, Fracowiak, J, Pühler, A, Schlüter, A **(2016)**. *In preparation.*
 
