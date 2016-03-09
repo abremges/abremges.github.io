@@ -22,7 +22,7 @@ Maus, I, Cibis KG, __Bremges, A__, Stolze, Y, Wibberg, D, Tomazetto, G, Blom, J,
 
 <br/><br/>
 **<a href="https://github.com/metagenomics/MeCorS" target="_blank">MeCorS: Metagenome-enabled error correction of single cell sequencing reads</a>**  
-__Bremges, A__, Singer, E, Woyke, T, Sczyrba, A **(2016)**. *Bioinformatics*, in press.*
+__Bremges, A__, Singer, E, Woyke, T, Sczyrba, A **(2016)**. *Bioinformatics*, in press.
 
 <br/><br/>
 **<a href="http://dx.doi.org/10.1186/s13742-015-0087-0" target="_blank">Bioboxes: standardised containers for interchangeable bioinformatics software</a>**  
