@@ -5,20 +5,8 @@ color: black
 fa-icon: navicon
 ---
 
-**<a href="/bremges_gi2014.pdf" target="_blank">Metagenomic proxy assemblies of single cell genomes</a>**  
-__Bremges, A__, Jarett, J, Woyke, T, Sczyrba, A **(2016)**. *In preparation.*
-
-<br/><br/>
-**<a href="https://github.com/hzi-bifo/traitar" target="_blank">From genomes to phenotypes: Traitar, the microbial trait analyzer</a>**  
-Weimann, A, Frank, J, Pope, PB, __Bremges, A__, McHardy, AC **(2016)**. *In preparation.*
-
-<br/><br/>
-**<a href="https://github.com/abremges/2015-pseudo" target="_blank">Finished genome sequence and methylome of the cyanide-degrading *Pseudomonas pseudoalcaligenes* strain CECT5344 as resolved by single-molecule real-time sequencing</a>**  
-Wibberg, D\*, __Bremges, A\*__, Dammann-Kalinowski, T, Maus, I, Igeño, I, Vogelsang, R, König, C, Sczyrba, A, Blasco, R, Pühler, A, Schlüter, A **(2016)**. *Submitted.*
-
-<br/><br/>
-**<a href="https://www.youtube.com/watch?v=DLzxrzFCyOs" target="_blank">Genomic characterization of *Defluviitoga tunisiensis* L3, a key hydrolytic bacterium in a thermophilic biogas plant and its abundance as determined by metagenome fragment recruitment</a>**  
-Maus, I, Cibis KG, __Bremges, A__, Stolze, Y, Wibberg, D, Tomazetto, G, Blom, J, Sczyrba, A, König, H, Pühler, A, Schlüter, A **(2016)**. *Submitted.*
+**<a href="http://dx.doi.org/10.1101/043315" target="_blank">From genomes to phenotypes: Traitar, the microbial trait analyzer</a>**  
+Weimann, A, Frank, J, Pope, PB, __Bremges, A__, McHardy, AC **(2016)**. *bioRxiv*, preprint.
 
 <br/><br/>
 **<a href="https://github.com/metagenomics/MeCorS" target="_blank">MeCorS: Metagenome-enabled error correction of single cell sequencing reads</a>**  
