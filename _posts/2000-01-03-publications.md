@@ -6,11 +6,11 @@ fa-icon: navicon
 ---
 
 **<a href="http://dx.doi.org/10.1101/043315" target="_blank">From genomes to phenotypes: Traitar, the microbial trait analyzer</a>**  
-Weimann, A, Frank, J, Pope, PB, __Bremges, A__, McHardy, AC **(2016)**. *bioRxiv*.
+Weimann, A, Frank, J, Pope, PB, __Bremges, A__, McHardy, AC **(2016)**. *bioRxiv*, preprint.
 
 <br/><br/>
 **<a href="http://dx.doi.org/10.1093/bioinformatics/btw144" target="_blank">MeCorS: Metagenome-enabled error correction of single cell sequencing reads</a>**  
-__Bremges, A__, Singer, E, Woyke, T, Sczyrba, A **(2016)**. *Bioinformatics*.
+__Bremges, A__, Singer, E, Woyke, T, Sczyrba, A **(2016)**. *Bioinformatics*, in press.
 
 <br/><br/>
 **<a href="http://dx.doi.org/10.1186/s13742-015-0087-0" target="_blank">Bioboxes: standardised containers for interchangeable bioinformatics software</a>**  
