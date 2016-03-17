@@ -9,7 +9,7 @@ fa-icon: navicon
 Weimann, A, Frank, J, Pope, PB, __Bremges, A__, McHardy, AC **(2016)**. *bioRxiv*, preprint.
 
 <br/><br/>
-**<a href="https://github.com/metagenomics/MeCorS" target="_blank">MeCorS: Metagenome-enabled error correction of single cell sequencing reads</a>**  
+**<a href="http://dx.doi.org/10.1093/bioinformatics/btw144" target="_blank">MeCorS: Metagenome-enabled error correction of single cell sequencing reads</a>**  
 __Bremges, A__, Singer, E, Woyke, T, Sczyrba, A **(2016)**. *Bioinformatics*, in press.
 
 <br/><br/>
