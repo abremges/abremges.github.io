@@ -9,6 +9,10 @@ fa-icon: navicon
 Weimann, A, Frank, J, Pope, PB, __Bremges, A__, McHardy, AC **(2016)**. *bioRxiv*, preprint.
 
 <br/><br/>
+**<a href="https://github.com/abremges/2015-pseudo" target="_blank">Finished genome sequence and methylome of the cyanide-degrading *Pseudomonas pseudoalcaligenes* strain CECT5344 as resolved by single-molecule real-time sequencing</a>**  
+Wibberg, D\*, __Bremges, A\*__, Dammann-Kalinowski, T, Maus, I, Igeño, I, Vogelsang, R, König, C, Sczyrba, A, Blasco, R, Pühler, A, Schlüter, A **(2016)**. *Journal of Biotechnology*, in press.
+
+<br/><br/>
 **<a href="http://dx.doi.org/10.1093/bioinformatics/btw144" target="_blank">MeCorS: Metagenome-enabled error correction of single cell sequencing reads</a>**  
 __Bremges, A__, Singer, E, Woyke, T, Sczyrba, A **(2016)**. *Bioinformatics*, in press.
 
