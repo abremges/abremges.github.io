@@ -9,6 +9,10 @@ fa-icon: navicon
 Weimann, A, Frank, J, Pope, PB, __Bremges, A__, McHardy, AC **(2016)**. *bioRxiv*, preprint.
 
 <br/><br/>
+**<a href="https://www.youtube.com/watch?v=DLzxrzFCyOs" target="_blank">Genomic characterization of *Defluviitoga tunisiensis* L3, a key hydrolytic bacterium in a thermophilic biogas plant and its abundance as determined by metagenome fragment recruitment</a>**  
+Maus, I, Cibis KG, __Bremges, A__, Stolze, Y, Wibberg, D, Tomazetto, G, Blom, J, Sczyrba, A, König, H, Pühler, A, Schlüter, A **(2016)**. *Journal of Biotechnology*, in press.
+
+<br/><br/>
 **<a href="http://dx.doi.org/10.1016/j.jbiotec.2016.04.008" target="_blank">Finished genome sequence and methylome of the cyanide-degrading *Pseudomonas pseudoalcaligenes* strain CECT5344 as resolved by single-molecule real-time sequencing</a>**  
 Wibberg, D\*, __Bremges, A\*__, Dammann-Kalinowski, T, Maus, I, Igeño, I, Vogelsang, R, König, C, Sczyrba, A, Blasco, R, Pühler, A, Schlüter, A **(2016)**. *Journal of Biotechnology*, in press.
 
