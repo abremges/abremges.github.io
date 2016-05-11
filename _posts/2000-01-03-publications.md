@@ -9,7 +9,7 @@ fa-icon: navicon
 Weimann, A, Frank, J, Pope, PB, __Bremges, A__, McHardy, AC **(2016)**. *bioRxiv*, preprint.
 
 <br/><br/>
-**<a href="https://www.youtube.com/watch?v=DLzxrzFCyOs" target="_blank">Genomic characterization of *Defluviitoga tunisiensis* L3, a key hydrolytic bacterium in a thermophilic biogas plant and its abundance as determined by metagenome fragment recruitment</a>**  
+**<a href="http://dx.doi.org/10.1016/j.jbiotec.2016.05.001" target="_blank">Genomic characterization of *Defluviitoga tunisiensis* L3, a key hydrolytic bacterium in a thermophilic biogas plant and its abundance as determined by metagenome fragment recruitment</a>**  
 Maus, I, Cibis KG, __Bremges, A__, Stolze, Y, Wibberg, D, Tomazetto, G, Blom, J, Sczyrba, A, König, H, Pühler, A, Schlüter, A **(2016)**. *Journal of Biotechnology*, in press.
 
 <br/><br/>
