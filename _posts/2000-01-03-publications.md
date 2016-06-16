@@ -9,6 +9,10 @@ fa-icon: navicon
 Weimann, A., J. Frank, P.B. Pope, __A. Bremges__, A.C. McHardy **(2016)**. *bioRxiv*, preprint.
 
 <br/><br/>
+**<a href="http://dx.doi.org/10.1016/j.jbiotec.2016.06.014" target="_blank">An integrated metagenome and -proteome analysis of the microbial community residing in a biogas production plant</a>**  
+Ortseifen, V., Y. Stolze, I. Maus, A. Sczyrba, __A. Bremges__, S.P. Albaum, S. Jaenicke, J. Fracowiak, A. Pühler, A. Schlüter **(2016)**. *Journal of Biotechnology*, in press.
+
+<br/><br/>
 **<a href="http://dx.doi.org/10.1016/j.jbiotec.2016.05.001" target="_blank">Genomic characterization of *Defluviitoga tunisiensis* L3, a key hydrolytic bacterium in a thermophilic biogas plant and its abundance as determined by metagenome fragment recruitment</a>**  
 Maus, I., K.G. Cibis, __A. Bremges__, Y. Stolze, D. Wibberg, G. Tomazetto, J. Blom, A. Sczyrba, H. König, A. Pühler, A. Schlüter **(2016)**. *Journal of Biotechnology*, in press.
 
