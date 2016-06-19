@@ -2,7 +2,7 @@
 title: "publications"
 bg: gray2
 color: black
-fa-icon: navicon
+fa-icon: code
 ---
 
 **<a href="http://dx.doi.org/10.1101/043315" target="_blank">From genomes to phenotypes: Traitar, the microbial trait analyzer</a>**  
