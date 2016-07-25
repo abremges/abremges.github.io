@@ -6,11 +6,11 @@ fa-icon: code
 ---
 
 **<a href="http://dx.doi.org/10.1101/043315" target="_blank">From genomes to phenotypes: Traitar, the microbial trait analyzer</a>**  
-Weimann, A., J. Frank, P.B. Pope, __A. Bremges__, A.C. McHardy **(2016)**. *bioRxiv*, preprint.
+Weimann, A., K. Mooren, J. Frank, P.B. Pope, __A. Bremges__, A.C. McHardy **(2016)**. *bioRxiv*, preprint.
 
 <br/><br/>
 **<a href="http://dx.doi.org/10.1016/j.jbiotec.2016.06.014" target="_blank">An integrated metagenome and -proteome analysis of the microbial community residing in a biogas production plant</a>**  
-Ortseifen, V., Y. Stolze, I. Maus, A. Sczyrba, __A. Bremges__, S.P. Albaum, S. Jaenicke, J. Fracowiak, A. Pühler, A. Schlüter **(2016)**. *Journal of Biotechnology*, in press.
+Ortseifen, V., Y. Stolze, I. Maus, A. Sczyrba, __A. Bremges__, S.P. Albaum, S. Jaenicke, J. Fracowiak, A. Pühler, A. Schlüter **(2016)**. *Journal of Biotechnology*, 231:268-279.
 
 <br/><br/>
 **<a href="http://dx.doi.org/10.1016/j.jbiotec.2016.05.001" target="_blank">Genomic characterization of *Defluviitoga tunisiensis* L3, a key hydrolytic bacterium in a thermophilic biogas plant and its abundance as determined by metagenome fragment recruitment</a>**  
@@ -22,7 +22,7 @@ Wibberg, D.\*, __A. Bremges\*__, T. Dammann-Kalinowski, I. Maus, I. Igeño, R. V
 
 <br/><br/>
 **<a href="http://dx.doi.org/10.1093/bioinformatics/btw144" target="_blank">MeCorS: metagenome-enabled error correction of single cell sequencing reads</a>**  
-__Bremges, A.__, E. Singer, T. Woyke, A. Sczyrba **(2016)**. *Bioinformatics*, in press.
+__Bremges, A.__, E. Singer, T. Woyke, A. Sczyrba **(2016)**. *Bioinformatics*, 32, 14:2199-201.
 
 <br/><br/>
 **<a href="http://dx.doi.org/10.1186/s13742-015-0087-0" target="_blank">Bioboxes: standardised containers for interchangeable bioinformatics software</a>**  
