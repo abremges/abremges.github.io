@@ -9,6 +9,10 @@ fa-icon: code
 Weimann, A., K. Mooren, J. Frank, P.B. Pope, __A. Bremges__, A.C. McHardy **(2016)**. *bioRxiv*, preprint.
 
 <br/><br/>
+**<a href="http://dx.doi.org/10.1186/s13068-016-0581-3" target="_blank">Unraveling the microbiome of a thermophilic biogas plant by metagenome and metatranscriptome analysis complemented by characterization of bacterial and archaeal isolates</a>**  
+Maus, I., D.E. Koeck, K.G. Cibis, S. Hahnke, Y.S. Kim, T. Langer, J. Kreubel, M. Erhard, __A. Bremges__, S. Off, Y. Stolze, S. Jaenicke, A. Goesmann, A. Sczyrba, P. Scherer, H. König, W.H. Schwarz, V.V. Zverlov, W. Liebl, A. Pühler, A. Schlüter, M. Klocke **(2016)**. *Biotechnology for Biofuels*, 9:172.
+
+<br/><br/>
 **<a href="http://dx.doi.org/10.1186/s13068-016-0565-3" target="_blank">Identification and genome reconstruction of abundant distinct taxa in microbiomes from one thermophilic and three mesophilic production-scale biogas plants</a>**  
 Stolze, Y.\*, __A. Bremges\*__, M. Rumming, C. Henke, I. Maus, A. Pühler, A. Sczyrba, A. Schlüter **(2016)**. *Biotechnology for Biofuels*, 9:156.
 
