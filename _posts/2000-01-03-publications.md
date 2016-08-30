@@ -22,11 +22,11 @@ Ortseifen, V., Y. Stolze, I. Maus, A. Sczyrba, __A. Bremges__, S.P. Albaum, S. J
 
 <br/><br/>
 **<a href="http://dx.doi.org/10.1016/j.jbiotec.2016.05.001" target="_blank">Genomic characterization of *Defluviitoga tunisiensis* L3, a key hydrolytic bacterium in a thermophilic biogas plant and its abundance as determined by metagenome fragment recruitment</a>**  
-Maus, I., K.G. Cibis, __A. Bremges__, Y. Stolze, D. Wibberg, G. Tomazetto, J. Blom, A. Sczyrba, H. König, A. Pühler, A. Schlüter **(2016)**. *Journal of Biotechnology*, in press.
+Maus, I., K.G. Cibis, __A. Bremges__, Y. Stolze, D. Wibberg, G. Tomazetto, J. Blom, A. Sczyrba, H. König, A. Pühler, A. Schlüter **(2016)**. *Journal of Biotechnology*, 232:50-60.
 
 <br/><br/>
 **<a href="http://dx.doi.org/10.1016/j.jbiotec.2016.04.008" target="_blank">Finished genome sequence and methylome of the cyanide-degrading *Pseudomonas pseudoalcaligenes* strain CECT5344 as resolved by single-molecule real-time sequencing</a>**  
-Wibberg, D.\*, __A. Bremges\*__, T. Dammann-Kalinowski, I. Maus, I. Igeño, R. Vogelsang, C. König, A. Sczyrba, R. Blasco, A. Pühler, A. Schlüter **(2016)**. *Journal of Biotechnology*, in press.
+Wibberg, D.\*, __A. Bremges\*__, T. Dammann-Kalinowski, I. Maus, I. Igeño, R. Vogelsang, C. König, A. Sczyrba, R. Blasco, A. Pühler, A. Schlüter **(2016)**. *Journal of Biotechnology*, 232:61-8.
 
 <br/><br/>
 **<a href="http://dx.doi.org/10.1093/bioinformatics/btw144" target="_blank">MeCorS: metagenome-enabled error correction of single cell sequencing reads</a>**  
