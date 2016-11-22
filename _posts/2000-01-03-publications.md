@@ -6,7 +6,7 @@ fa-icon: code
 ---
 
 **<a href="http://dx.doi.org/10.1101/043315" target="_blank">From genomes to phenotypes: Traitar, the microbial trait analyzer</a>**  
-Weimann, A., K. Mooren, J. Frank, P.B. Pope, __A. Bremges__, A.C. McHardy **(2016)**. *bioRxiv*, preprint.
+Weimann, A., K. Mooren, J. Frank, P.B. Pope, __A. Bremges__, A.C. McHardy **(2016)**. *mSystems*, in press.
 
 <br/><br/>
 **<a href="http://dx.doi.org/10.1186/s13068-016-0581-3" target="_blank">Unraveling the microbiome of a thermophilic biogas plant by metagenome and metatranscriptome analysis complemented by characterization of bacterial and archaeal isolates</a>**  
