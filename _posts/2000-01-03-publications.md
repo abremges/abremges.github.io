@@ -5,8 +5,8 @@ color: black
 fa-icon: code
 ---
 
-**<a href="http://dx.doi.org/10.1101/043315" target="_blank">From genomes to phenotypes: Traitar, the microbial trait analyzer</a>**  
-Weimann, A., K. Mooren, J. Frank, P.B. Pope, __A. Bremges__, A.C. McHardy **(2016)**. *mSystems*, in press.
+**<a href="http://dx.doi.org/10.1128/mSystems.00101-16" target="_blank">From genomes to phenotypes: Traitar, the microbial trait analyzer</a>**  
+Weimann, A., K. Mooren, J. Frank, P.B. Pope, __A. Bremges__, A.C. McHardy **(2016)**. *mSystems*, 1, 6:e00101-16.
 
 <br/><br/>
 **<a href="http://dx.doi.org/10.1186/s13068-016-0581-3" target="_blank">Unraveling the microbiome of a thermophilic biogas plant by metagenome and metatranscriptome analysis complemented by characterization of bacterial and archaeal isolates</a>**  
