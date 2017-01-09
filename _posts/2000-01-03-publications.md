@@ -5,6 +5,10 @@ color: black
 fa-icon: code
 ---
 
+**<a href="http://dx.doi.org/" target="_blank">Critical Assessment of Metagenome Interpretation – a benchmark of computational metagenomics software</a>**  
+Sczyrba, A.\*, P. Hofmann\*, P. Belmann\*, D. Koslicki, S. Janssen, J. Dröge, I. Gregor, S. Majda, J. Fiedler, E. Dahms, __A. Bremges__, A. Fritz, R. Garrido-Oter, T.S. Jørgensen, N. Shapiro, P.D. Blood, A. Gurevich, Y. Bai, D. Turaev, M.Z. DeMaere, R. Chikhi, N. Nagarajan, C. Quince, L.H. Hansen, S.J. Sørensen, B.K.H. Chia, B. Denis, J.L. Froula, Z. Wang, R. Egan, D.D. Kang, J.J. Cook, C. Deltel, M. Beckstette, C. Lemaitre, P. Peterlongo, G. Rizk, D. Lavenier, Y. Wu, S.W. Singer, C. Jain, M. Strous, H. Klingenberg, P. Meinicke, M. Barton, T. Lingner, H. Lin, Y. Liao, G.G.Z. Silva, D.A. Cuevas, R.A. Edwards, Surya Saha, V.C. Piro, B.Y. Renard, M. Pop, H. Klenk, M. Göker, N. Kyrpides, T. Woyke, J.A. Vorholt, P. Schulze-Lefert, E.M. Rubin, A.E. Darling, T. Rattei, A.C. McHardy **(2017)**. *bioRxiv*, preprint.
+
+<br/><br/>
 **<a href="http://dx.doi.org/10.1128/mSystems.00101-16" target="_blank">From genomes to phenotypes: Traitar, the microbial trait analyzer</a>**  
 Weimann, A., K. Mooren, J. Frank, P.B. Pope, __A. Bremges__, A.C. McHardy **(2016)**. *mSystems*, 1, 6:e00101-16.
 

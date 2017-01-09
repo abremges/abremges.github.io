@@ -16,7 +16,7 @@ highlighter: rouge
 
 
 ### content configuration ###
-title:       "Dr. Andreas Bremges"
+title:       "Andreas Bremges"
 keywords:    "bioinformatics, metagenomics, single cell genomics, microbial dark matter"
 description: "Postdoctoral researcher in Alice McHardy's group, Helmholtz Centre for Infection Research. Previously Ph.D. student in Alex Sczyrba's group, Bielefeld University."
 source_link: "https://github.com/abremges/abremges.github.io"
