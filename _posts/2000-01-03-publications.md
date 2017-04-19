@@ -5,6 +5,10 @@ color: black
 fa-icon: code
 ---
 
+**<a href="https://doi.org/10.1007/978-1-4939-6899-2_20" target="_blank">Metagenomics and CAZyme discovery </a>**  
+Kunath, B.J., __A. Bremges__, A. Weimann, A.C. McHardy, P.B. Pope **(2017)**. *Methods in Molecular Biology*, 1588:255-277.
+
+<br/><br/>
 **<a href="https://doi.org/10.1101/103150" target="_blank">Laboratory cultivation of acidophilic nanoorganisms. Physiological and bioinformatic dissection of a stable laboratory co-culture</a>**  
 Krause, S., __A. Bremges__, P.C. Münch, A.C. McHardy, J. Gescher **(2017)**. *bioRxiv*, preprint.
 
