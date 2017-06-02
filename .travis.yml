@@ -1,7 +1,7 @@
 language: ruby
 rvm:
 - 2.3.3
-script: bundle exec jekyll build && bundle exec htmlproofer ./_site
+script: bundle exec jekyll build && bundle exec htmlproofer ./_site --href_ignore https://scholar.google.de/citations?user=iASXbxgAAAAJ&hl=en
 
 env:
   global:
