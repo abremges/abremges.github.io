@@ -1,5 +1,5 @@
 ---
-alt_title: "Hello, my name is Andi."
+alt_title: "Hi, I'm Andi."
 layout: page
 ---
 
