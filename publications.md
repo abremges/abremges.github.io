@@ -163,5 +163,5 @@ Gillett <i>et al.</i> (2013). <i>PLOS ONE</i>.
 <a href="https://doi.org/10.1186/1471-2105-11-222" target="_blank">
 Fine-tuning structural RNA alignments in the twilight zone.
 </a></h3>
-Bremges*, Schirmer*, <i>et al.</i> (2013). <i>BMC Bioinformatics</i>.
+Bremges*, Schirmer*, <i>et al.</i> (2010). <i>BMC Bioinformatics</i>.
 </div>
