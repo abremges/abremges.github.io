@@ -109,7 +109,7 @@ Stolze*, Bremges*, <i>et al.</i> (2016). <i>Biotechnology for Biofuels</i>.
 <a href="https://doi.org/10.1093/bioinformatics/btw144" target="_blank">
 MeCorS: Metagenome-enabled error correction of single cell sequencing reads.
 </a></h3>
-Bremges <i>et al.</i> (2016). <i>Biotechnology for Biofuels</i>.
+Bremges <i>et al.</i> (2016). <i>Bioinformatics</i>.
 </div>
 
 <div class="pub" style="margin-top:2em">
