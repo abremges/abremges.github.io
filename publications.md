@@ -13,7 +13,6 @@ Grießmeier, Bremges, <i>et al.</i> (2017). <i>Scientific Reports</i>, in press.
 </div>
 
 <div class="pub" style="margin-top:2em">
-<div class='altmetric-embed' data-badge-type='donut' data-condensed="true" style="display:inline; float:right; margin-left:1em" data-uri='https://pub.uni-bielefeld.de/publication/2906743'></div>
 <h3 style="margin:0">
 <a href="javascript:;" target="_blank">
 Targeted <i>in situ</i> metatranscriptomics for selected taxa from mesophilic and thermophilic biogas plants.
