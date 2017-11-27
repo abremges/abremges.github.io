@@ -35,7 +35,7 @@ Maus*, Bremges*, <i>et al.</i> (2017). <i>Biotechnology for Biofuels</i>, 10:264
 <a href="https://doi.org/10.1038/nmeth.4458" target="_blank">
 Critical Assessment of Metagenome Interpretation&mdash;a benchmark of metagenomics software.
 </a></h3>
-Sczyrba*, Hofmann*, Belmann*, <i>et al.</i> (2017). <i>Nature Methods</i>, 14, 11:1063-1071.
+Sczyrba*, Hofmann*, Belmann*, <i>et al.</i> (2017). <i>Nature Methods</i>, 14, 11:1063&ndash;1071.
 </div>
 
 <div class="pub" style="margin-top:2em">
@@ -62,7 +62,7 @@ Krause, Bremges, <i>et al.</i> (2017). <i>Scientific Reports</i>, 7, 1:3289.
 <a href="https://doi.org/10.1007/978-1-4939-6899-2_20" target="_blank">
 Metagenomics and CAZyme discovery.
 </a></h3>
-Kunath, Bremges, <i>et al.</i> (2017). <i>Methods in Molecular Biology</i>, 1588:255-277.
+Kunath, Bremges, <i>et al.</i> (2017). <i>Methods in Molecular Biology</i>, 1588:255&ndash;277.
 </div>
 
 <div class="pub" style="margin-top:2em">
@@ -71,7 +71,7 @@ Kunath, Bremges, <i>et al.</i> (2017). <i>Methods in Molecular Biology</i>, 1588
 <a href="https://doi.org/10.1128/mSystems.00101-16" target="_blank">
 From genomes to phenotypes: Traitar, the microbial trait analyzer.
 </a></h3>
-Weimann <i>et al.</i> (2016). <i>mSystems</i>, 1, 6:e00101-16
+Weimann <i>et al.</i> (2016). <i>mSystems</i>, 1, 6:e00101&ndash;16
 </div>
 
 <div class="pub" style="margin-top:2em">
@@ -80,7 +80,7 @@ Weimann <i>et al.</i> (2016). <i>mSystems</i>, 1, 6:e00101-16
 <a href="https://doi.org/10.1016/j.jbiotec.2016.05.001" target="_blank">
 Genomic characterization of <i>Defluviitoga tunisiensis</i> L3, a key hydrolytic bacterium in a thermophilic biogas plant and its abundance as determined by metagenome fragment recruitment.
 </a></h3>
-Maus <i>et al.</i> (2016). <i>Journal of Biotechnology</i>, 232:50-60.
+Maus <i>et al.</i> (2016). <i>Journal of Biotechnology</i>, 232:50&ndash;60.
 </div>
 
 <div class="pub" style="margin-top:2em">
@@ -89,7 +89,7 @@ Maus <i>et al.</i> (2016). <i>Journal of Biotechnology</i>, 232:50-60.
 <a href="https://doi.org/10.1016/j.jbiotec.2016.04.008" target="_blank">
 Finished genome sequence and methylome of the cyanide-degrading <i>Pseudomonas pseudoalcaligenes</i> strain CECT5344 as resolved by single-molecule real-time sequencing.
 </a></h3>
-Wiberg*, Bremges*, <i>et al.</i> (2016). <i>Journal of Biotechnology</i>, 232:61-8.
+Wiberg*, Bremges*, <i>et al.</i> (2016). <i>Journal of Biotechnology</i>, 232:61&ndash;8.
 </div>
 
 <div class="pub" style="margin-top:2em">
@@ -107,7 +107,7 @@ Maus <i>et al.</i> (2016). <i>Biotechnology for Biofuels</i>, 9:171.
 <a href="https://doi.org/10.1016/j.jbiotec.2016.06.014" target="_blank">
 An integrated metagenome and -proteome analysis of the microbial community residing in a biogas production plant.
 </a></h3>
-Ortseifen <i>et al.</i> (2016). <i>Journal of Biotechnology</i>, 231:268-279.
+Ortseifen <i>et al.</i> (2016). <i>Journal of Biotechnology</i>, 231:268&ndash;279.
 </div>
 
 <div class="pub" style="margin-top:2em">
@@ -125,7 +125,7 @@ Stolze*, Bremges*, <i>et al.</i> (2016). <i>Biotechnology for Biofuels</i>, 9:15
 <a href="https://doi.org/10.1093/bioinformatics/btw144" target="_blank">
 MeCorS: Metagenome-enabled error correction of single cell sequencing reads.
 </a></h3>
-Bremges <i>et al.</i> (2016). <i>Bioinformatics</i>, 32, 14:2199-201.
+Bremges <i>et al.</i> (2016). <i>Bioinformatics</i>, 32, 14:2199&ndash;201.
 </div>
 
 <div class="pub" style="margin-top:2em">
@@ -143,7 +143,7 @@ Belmann <i>et al.</i> (2015). <i>GigaScience</i>, 4:47.
 <a href="https://doi.org/10.1002/pmic.201400557" target="_blank">
 Fractionation of biogas plant sludge material improves metaproteomic characterization to investigate metabolic activity of microbial communities.
 </a></h3>
-Kohrs <i>et al.</i> (2015). <i>Proteomics</i>, 15, 20:3585-9.
+Kohrs <i>et al.</i> (2015). <i>Proteomics</i>, 15, 20:3585&ndash;9.
 </div>
 
 <div class="pub" style="margin-top:2em">
@@ -161,7 +161,7 @@ Bremges <i>et al.</i> (2015). <i>GigaScience</i>, 4:33.
 <a href="https://doi.org/10.1016/j.jbiotec.2014.02.004" target="_blank">
 Complete genome sequence of the cyanide-degrading bacterium <i>Pseudomonas pseudoalcaligenes</i> CECT5344.
 </a></h3>
-Wibberg <i>et al.</i> (2014). <i>Journal of Biotechnology</i>, 175:67-8.
+Wibberg <i>et al.</i> (2014). <i>Journal of Biotechnology</i>, 175:67&ndash;8.
 </div>
 
 <div class="pub" style="margin-top:2em">
