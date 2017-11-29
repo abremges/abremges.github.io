@@ -48,33 +48,5 @@
       "startDate": "08/2012",
       "endDate": "Present"
     }
-  ],
-  "education": {
-    "show_gpa": false,
-    "schools": [
-      {
-        "degree": "Doctor of Science (Dr. rer. nat.)",
-        "major": "Industrial Biotechnology / Bioinformatics",
-        "institution": "Bielefeld University",
-        "graduation_year": 2016
-      },
-      {
-        "degree": "Master of Science (M.Sc.)",
-        "major": "Bioinformatics and Genome Research",
-        "institution": "Bielefeld University / University of Helsinki",
-        "graduation_year": 2011
-      },
-      {
-        "degree": "Bachelor of Science (B.Sc.)",
-        "major": "Bioinformatics and Genome Research",
-        "institution": "Bielefeld University",
-        "graduation_year": 2008
-      },
-      {
-        "degree": "Associate Engineer",
-        "major": "Apprenticeship specializing in Automation Technology",
-        "institution": "Siemens Technik Akademie, Düsseldorf",
-        "graduation_year": 2005
-      },
-    ]
+  ]
 }
