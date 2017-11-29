@@ -18,7 +18,7 @@ title: Andreas Bremges
 email: andreas@bremges.de
 description: Bioinformatics and (meta)genomics. Postdoctoral researcher in Alice McHardy's group, Helmholtz Centre for Infection Research.
 baseurl: # the optional subpath of your site, e.g. "/blog"
-url: # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url: https://bremges.de
 author:
   name: Andreas Bremges
   twitter: abremges
