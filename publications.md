@@ -13,11 +13,12 @@ Grießmeier, Bremges, <i>et al.</i> (2017). <i>Scientific Reports</i>, in press.
 </div>
 
 <div class="pub" style="margin-top:2em">
+<div class='altmetric-embed' data-badge-type='donut' data-condensed="true" style="display:inline; float:right; margin-left:1em" data-doi='10.1111/1751-7915.12982'></div>
 <h3 style="margin:0">
-<a href="javascript:;" target="_blank">
+<a href="https://doi.org/10.1111/1751-7915.12982" target="_blank">
 Targeted <i>in situ</i> metatranscriptomics for selected taxa from mesophilic and thermophilic biogas plants.
 </a></h3>
-Stolze, Bremges, <i>et al.</i> (2017). <i>Microbial Biotechnology</i>, in press.
+Stolze, Bremges, <i>et al.</i> (2017). <i>Microbial Biotechnology</i>, advance access.
 </div>
 
 <div class="pub" style="margin-top:2em">
