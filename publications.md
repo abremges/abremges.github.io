@@ -5,9 +5,9 @@ layout: page
 <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
 
 <div class="pub">
-<div class='altmetric-embed' data-badge-type='donut' data-condensed="true" style="display:inline; float:right; margin-left:1em" data-doi='10.1038/s41598-017-03315-6'></div>
+<div class='altmetric-embed' data-badge-type='donut' data-condensed="true" style="display:inline; float:right; margin-left:1em" data-doi='10.1038/s41598-017-17312-2'></div>
 <h3 style="margin:0">
-<a href="https://doi.org/10.1038/s41598-017-03315-6" target="_blank">
+<a href="https://doi.org/10.1038/s41598-017-17312-2" target="_blank">
 Investigation of different nitrogen reduction routes and their key microbial players in wood chip-driven denitrification beds.
 </a></h3>
 Grießmeier, Bremges, <i>et al.</i> (2017). <i>Scientific Reports</i>, 7, 1:17028.
