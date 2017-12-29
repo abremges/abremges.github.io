@@ -6,10 +6,11 @@ layout: page
 
 <div class="pub">
 <h3 style="margin:0">
-<a href="javascript:;" target="_blank">
+<div class='altmetric-embed' data-badge-type='donut' data-condensed="true" style="display:inline; float:right; margin-left:1em" data-doi='10.1016/j.jbiotec.2017.12.021'></div>
+<a href="https://doi.org/10.1016/j.jbiotec.2017.12.021" target="_blank">
 Assembly of the <i>Lactuca sativa</i>, L. cv. Tizian draft genome sequence revealed differences within major resistance complex 1 as compared to the cv. Salinas reference genome.
 </a></h3>
-Verwaaijen <i>et al.</i> <b>(2017)</b>. <i>Journal of Biotechnology</i>, in press.
+Verwaaijen <i>et al.</i> <b>(2018)</b>. <i>Journal of Biotechnology</i>, 267:12&ndash;18.
 </div>
 
 <div class="pub" style="margin-top:2em">
