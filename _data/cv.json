@@ -56,7 +56,7 @@
       "studyType": "Doctor of Science (Dr. rer. nat.)",
       "startDate": "2016",
       "endDate": "2011",
-      "courses": []
+      "courses": ""
     },
     {
       "institution": "Bielefeld University / University of Helsinki",
@@ -64,7 +64,7 @@
       "studyType": "Master of Science (M.Sc.)",
       "startDate": "2008",
       "endDate": "2011",
-      "courses": []
+      "courses": ""
     },
     {
       "institution": "Bielefeld University",
@@ -72,7 +72,7 @@
       "studyType": "Bachelor of Science (B.Sc.)",
       "startDate": "2005",
       "endDate": "2008",
-      "courses": []
+      "courses": ""
     },
     {
       "institution": "Siemens Technik Akademie, Düsseldorf",
@@ -80,7 +80,7 @@
       "studyType": "AssociateEngineer",
       "startDate": "2003",
       "endDate": "2005",
-      "courses": []
+      "courses": ""
     }
   ]
 }
