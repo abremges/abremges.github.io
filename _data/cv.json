@@ -51,36 +51,6 @@
   ],
   "education": [
     {
-      "company": "Helmholtz Centre for Infection Research",
-      "position": "Deputy Head of Department “Computational Biology of Infection Research”",
-      "website": "https://www.helmholtz-hzi.de/en/research/research_topics/bacterial_and_viral_pathogens/computational_biology_of_infection_research/team/",
-      "startDate": "03/2017",
-      "endDate": "Present"
-    },
-    {
-      "company": "Helmholtz Centre for Infection Research",
-      "position": "Team Leader “Computational Microbiome Research”",
-      "website": "https://www.helmholtz-hzi.de/en/research/research_topics/bacterial_and_viral_pathogens/computational_biology_of_infection_research/metagenomics_research/",
-      "startDate": "10/2016",
-      "endDate": "Present"
-    },
-    {
-      "company": "German Center for Infection Research (DZIF)",
-      "position": "Project Manager “Translational Infrastructure Bioinformatics”",
-      "website": "http://www.dzif.de/en/infrastructures/bioinformatics_platform/",
-      "startDate": "02/2015",
-      "endDate": "Present"
-    },
-    {
-      "company": "U.S. Department of Energy Joint Genome Institute",
-      "position": "Affiliate Scientist “Genomic Technologies”",
-      "website": "https://jgi.doe.gov/about-us/organization/genomic-technologies/zhong-wang/",
-      "startDate": "08/2012",
-      "endDate": "Present"
-    }
-  ],
-  "work": [
-    {
       "institution": "Bielefeld University",
       "area": "Industrial Biotechnology / Bioinformatics",
       "studyType": "Doctor of Science (Dr. rer. nat.)",
