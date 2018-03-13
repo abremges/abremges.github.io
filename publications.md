@@ -100,7 +100,7 @@ Maus <i>et al.</i> <b>(2016)</b>. <i>Journal of Biotechnology</i>, 232:50&ndash;
 <a href="https://doi.org/10.1016/j.jbiotec.2016.04.008" target="_blank">
 Finished genome sequence and methylome of the cyanide-degrading <i>Pseudomonas pseudoalcaligenes</i> strain CECT5344 as resolved by single-molecule real-time sequencing.
 </a></h3>
-Wiberg*, Bremges*, <i>et al.</i> <b>(2016)</b>. <i>Journal of Biotechnology</i>, 232:61&ndash;8.
+Wibberg*, Bremges*, <i>et al.</i> <b>(2016)</b>. <i>Journal of Biotechnology</i>, 232:61&ndash;8.
 </div>
 
 <div class="pub" style="margin-top:2em">
