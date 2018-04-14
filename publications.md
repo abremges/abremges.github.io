@@ -6,6 +6,15 @@ layout: page
 
 <div class="pub">
 <h3 style="margin:0">
+<div class='altmetric-embed' data-badge-type='donut' data-condensed="true" style="display:inline; float:right; margin-left:1em" data-doi='10.1101/300970'></div>
+<a href="https://doi.org/10.1101/300970" target="_blank">
+CAMISIM: Simulating metagenomes and microbial communities.
+</a></h3>
+Fritz*, Hofmann*, <i>et al.</i> <b>(2018)</b>. <i>bioRxiv</i>, preprint.
+</div>
+
+<div class="pub" style="margin-top:2em">
+<h3 style="margin:0">
 <div class='altmetric-embed' data-badge-type='donut' data-condensed="true" style="display:inline; float:right; margin-left:1em" data-doi='10.1016/j.jbiotec.2017.12.021'></div>
 <a href="https://doi.org/10.1016/j.jbiotec.2017.12.021" target="_blank">
 Assembly of the <i>Lactuca sativa</i>, L. cv. Tizian draft genome sequence revealed differences within major resistance complex 1 as compared to the cv. Salinas reference genome.
@@ -82,7 +91,7 @@ Kunath, Bremges, <i>et al.</i> <b>(2017)</b>. <i>Methods in Molecular Biology</i
 <a href="https://doi.org/10.1128/mSystems.00101-16" target="_blank">
 From genomes to phenotypes: Traitar, the microbial trait analyzer.
 </a></h3>
-Weimann <i>et al.</i> <b>(2016)</b>. <i>mSystems</i>, 1, 6:e00101&ndash;16
+Weimann <i>et al.</i> <b>(2016)</b>. <i>mSystems</i>, 1, 6:e00101&ndash;16.
 </div>
 
 <div class="pub" style="margin-top:2em">
