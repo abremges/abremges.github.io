@@ -10,7 +10,7 @@ layout: page
 <a href="https://doi.org/10.1128/mSystems.00103-18" target="_blank">
 Critical Assessment of Metagenome Interpretation enters the second round.
 </a></h3>
-Bremges <i>et al.</i> <b>(2018)</b>. <i>mSystems</i>, 3:e00103-18.
+Bremges <i>et al.</i> <b>(2018)</b>. <i>mSystems</i>, 3:e00103&ndash;18.
 </div>
 
 <div class="pub" style="margin-top:2em">
@@ -28,7 +28,7 @@ Fritz*, Hofmann*, <i>et al.</i> <b>(2018)</b>. <i>bioRxiv</i>, preprint.
 <a href="https://doi.org/10.1111/1751-7915.12982" target="_blank">
 Targeted <i>in situ</i> metatranscriptomics for selected taxa from mesophilic and thermophilic biogas plants.
 </a></h3>
-Stolze, Bremges, <i>et al.</i> <b>(2018)</b>. <i>Microbial Biotechnology</i>, 11, 4:667-679..
+Stolze, Bremges, <i>et al.</i> <b>(2018)</b>. <i>Microbial Biotechnology</i>, 11, 4:667&ndash;679.
 </div>
 
 <div class="pub" style="margin-top:2em">
