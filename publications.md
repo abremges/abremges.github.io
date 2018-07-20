@@ -6,6 +6,15 @@ layout: page
 
 <div class="pub">
 <h3 style="margin:0">
+<div class='altmetric-embed' data-badge-type='donut' data-condensed="true" style="display:inline; float:right; margin-left:1em" data-doi='10.1101/372680'></div>
+<a href="https://doi.org/10.1101/372680" target="_blank">
+Assessing taxonomic metagenome profilers with OPAL.
+</a></h3>
+Meyer, Bremges, <i>et al.</i> <b>(2018)</b>. <i>bioRxiv</i>, preprint.
+</div>
+
+<div class="pub" style="margin-top:2em">
+<h3 style="margin:0">
 <div class='altmetric-embed' data-badge-type='donut' data-condensed="true" style="display:inline; float:right; margin-left:1em" data-doi='10.1128/mSystems.00103-18'></div>
 <a href="https://doi.org/10.1128/mSystems.00103-18" target="_blank">
 Critical Assessment of Metagenome Interpretation enters the second round.
