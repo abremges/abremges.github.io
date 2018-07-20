@@ -19,7 +19,7 @@ Meyer, Bremges, <i>et al.</i> <b>(2018)</b>. <i>bioRxiv</i>, preprint.
 <a href="https://doi.org/10.1128/mSystems.00103-18" target="_blank">
 Critical Assessment of Metagenome Interpretation enters the second round.
 </a></h3>
-Bremges <i>et al.</i> <b>(2018)</b>. <i>mSystems</i>, 3:e00103&ndash;18.
+Bremges <i>et al.</i> <b>(2018)</b>. <i>mSystems</i>, 3, 4:e00103&ndash;18.
 </div>
 
 <div class="pub" style="margin-top:2em">
