@@ -19,7 +19,7 @@ Fritz*, Hofmann*, <i>et al.</i> <b>(2018)</b>. <i>Microbiome</i>, in press.
 <a href="https://doi.org/10.1101/372680" target="_blank">
 Assessing taxonomic metagenome profilers with OPAL.
 </a></h3>
-Meyer, Bremges, <i>et al.</i> <b>(2018)</b>. <i>bioRxiv</i>, preprint.
+Meyer, Bremges, <i>et al.</i> <b>(2018)</b>. <i>Genome Biology</i>, in press.
 </div>
 
 <div class="pub" style="margin-top:2em">
