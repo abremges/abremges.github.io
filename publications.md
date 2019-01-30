@@ -19,7 +19,7 @@ Bremges <i>et al.</i> <b>(2019)</b>. <i>bioRxiv</i>, preprint.
 <a href="https://doi.org/10.1101/300970" target="_blank">
 CAMISIM: Simulating metagenomes and microbial communities.
 </a></h3>
-Fritz*, Hofmann*, <i>et al.</i> <b>(2018)</b>. <i>Microbiome</i>, in press.
+Fritz*, Hofmann*, <i>et al.</i> <b>(2018)</b>. <i>bioRxiv</i>, preprint.
 </div>
 
 <div class="pub" style="margin-top:2em">
@@ -28,7 +28,7 @@ Fritz*, Hofmann*, <i>et al.</i> <b>(2018)</b>. <i>Microbiome</i>, in press.
 <a href="https://doi.org/10.1101/372680" target="_blank">
 Assessing taxonomic metagenome profilers with OPAL.
 </a></h3>
-Meyer, Bremges, <i>et al.</i> <b>(2018)</b>. <i>Genome Biology</i>, in press.
+Meyer, Bremges, <i>et al.</i> <b>(2018)</b>. <i>bioRxiv</i>, preprint.
 </div>
 
 <div class="pub" style="margin-top:2em">
