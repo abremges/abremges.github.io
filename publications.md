@@ -5,7 +5,7 @@ layout: page
 <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
 
 <div class="pub">
-<h3 style="margin:0" style="margin-top:2em">
+<h3 style="margin:0">
 <div class='altmetric-embed' data-badge-type='donut' data-condensed="true" style="display:inline; float:right; margin-left:1em" data-doi='10.1101/532473'></div>
 <a href="https://doi.org/10.1101/532473" target="_blank">
 CAMITAX: Taxon labels for microbial genomes.
