@@ -10,7 +10,7 @@ layout: page
 <a href="https://doi.org/10.1186/s40168-019-0633-6" target="_blank">
 CAMISIM: Simulating metagenomes and microbial communities.
 </a></h3>
-Fritz*, Hofmann*, <i>et al.</i> <b>(2018)</b>. <i>Microbiome</i>, 7:17.
+Fritz*, Hofmann*, <i>et al.</i> <b>(2019)</b>. <i>Microbiome</i>, 7:17.
 </div>
 
 <div class="pub" style="margin-top:2em">
