@@ -6,7 +6,7 @@ layout: page
 
 <div class="pub">
 <h3 style="margin:0">
-<div class='altmetric-embed' data-badge-type='donut' data-condensed="true" style="display:inline; float:right; margin-left:1em" data-doi='s40168-019-0633-6'></div>
+<div class='altmetric-embed' data-badge-type='donut' data-condensed="true" style="display:inline; float:right; margin-left:1em" data-doi='10.1186/s40168-019-0633-6'></div>
 <a href="https://doi.org/10.1186/s40168-019-0633-6" target="_blank">
 CAMISIM: Simulating metagenomes and microbial communities.
 </a></h3>
