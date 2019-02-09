@@ -6,6 +6,15 @@ layout: page
 
 <div class="pub">
 <h3 style="margin:0">
+<div class='altmetric-embed' data-badge-type='donut' data-condensed="true" style="display:inline; float:right; margin-left:1em" data-doi='s40168-019-0633-6'></div>
+<a href="https://doi.org/10.1186/s40168-019-0633-6" target="_blank">
+CAMISIM: Simulating metagenomes and microbial communities.
+</a></h3>
+Fritz*, Hofmann*, <i>et al.</i> <b>(2018)</b>. <i>Microbiome</i>, 7:17.
+</div>
+
+<div class="pub" style="margin-top:2em">
+<h3 style="margin:0">
 <div class='altmetric-embed' data-badge-type='donut' data-condensed="true" style="display:inline; float:right; margin-left:1em" data-doi='10.1101/532473'></div>
 <a href="https://doi.org/10.1101/532473" target="_blank">
 CAMITAX: Taxon labels for microbial genomes.
@@ -29,15 +38,6 @@ Bremges <i>et al.</i> <b>(2018)</b>. <i>mSystems</i>, 3, 4:e00103&ndash;18.
 Assessing taxonomic metagenome profilers with OPAL.
 </a></h3>
 Meyer, Bremges, <i>et al.</i> <b>(2018)</b>. <i>bioRxiv</i>, preprint.
-</div>
-
-<div class="pub" style="margin-top:2em">
-<h3 style="margin:0">
-<div class='altmetric-embed' data-badge-type='donut' data-condensed="true" style="display:inline; float:right; margin-left:1em" data-doi='10.1101/300970'></div>
-<a href="https://doi.org/10.1101/300970" target="_blank">
-CAMISIM: Simulating metagenomes and microbial communities.
-</a></h3>
-Fritz*, Hofmann*, <i>et al.</i> <b>(2018)</b>. <i>bioRxiv</i>, preprint.
 </div>
 
 <div class="pub" style="margin-top:2em">
