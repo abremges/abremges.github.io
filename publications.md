@@ -10,7 +10,7 @@ layout: page
 <a href="https://doi.org/10.1186/s13059-019-1646-y" target="_blank">
 Assessing taxonomic metagenome profilers with OPAL.
 </a></h3>
-Meyer, Bremges, <i>et al.</i> <b>(2019)</b>. <i>Genome Biology</i>, 20:51.
+Meyer, Bremges, <i>et al.</i> <b>(2019)</b>. <i>Genome Biology</i>, 20, 1:51.
 </div>
 
 <div class="pub" style="margin-top:2em">
@@ -19,7 +19,7 @@ Meyer, Bremges, <i>et al.</i> <b>(2019)</b>. <i>Genome Biology</i>, 20:51.
 <a href="https://doi.org/10.1186/s40168-019-0633-6" target="_blank">
 CAMISIM: Simulating metagenomes and microbial communities.
 </a></h3>
-Fritz*, Hofmann*, <i>et al.</i> <b>(2019)</b>. <i>Microbiome</i>, 7:17.
+Fritz*, Hofmann*, <i>et al.</i> <b>(2019)</b>. <i>Microbiome</i>, 7, 1:17.
 </div>
 
 <div class="pub" style="margin-top:2em">
