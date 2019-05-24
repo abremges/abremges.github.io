@@ -6,6 +6,15 @@ layout: page
 
 <div class="pub">
 <h3 style="margin:0">
+<div class='altmetric-embed' data-badge-type='donut' data-condensed="true" style="display:inline; float:right; margin-left:1em" data-doi='10.1101/643676'></div>
+<a href="https://doi.org/10.1101/643676" target="_blank">
+Fighting antimicrobial resistance in clinical Pseudomonas aeruginosa infections with machine learning-enabled molecular diagnostics.
+</a></h3>
+Khaledi*, Weimann*, Schniederjans*, <i>et al.</i> <b>(2019)</b>. <i>bioRxiv</i>, preprint.
+</div>
+
+<div class="pub" style="margin-top:2em">
+<h3 style="margin:0">
 <div class='altmetric-embed' data-badge-type='donut' data-condensed="true" style="display:inline; float:right; margin-left:1em" data-doi='10.1186/s13059-019-1646-y'></div>
 <a href="https://doi.org/10.1186/s13059-019-1646-y" target="_blank">
 Assessing taxonomic metagenome profilers with OPAL.
