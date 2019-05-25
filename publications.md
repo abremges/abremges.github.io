@@ -8,7 +8,7 @@ layout: page
 <h3 style="margin:0">
 <div class='altmetric-embed' data-badge-type='donut' data-condensed="true" style="display:inline; float:right; margin-left:1em" data-doi='10.1101/643676'></div>
 <a href="https://doi.org/10.1101/643676" target="_blank">
-Fighting antimicrobial resistance in clinical Pseudomonas aeruginosa infections with machine learning-enabled molecular diagnostics.
+Fighting antimicrobial resistance in Pseudomonas aeruginosa with machine learning-enabled molecular diagnostics.
 </a></h3>
 Khaledi*, Weimann*, Schniederjans*, <i>et al.</i> <b>(2019)</b>. <i>bioRxiv</i>, preprint.
 </div>
