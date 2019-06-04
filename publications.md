@@ -6,6 +6,15 @@ layout: page
 
 <div class="pub">
 <h3 style="margin:0">
+<div class='altmetric-embed' data-badge-type='donut' data-condensed="true" style="display:inline; float:right; margin-left:1em" data-doi='10.1101/532473'></div>
+<a href="https://doi.org/10.1101/532473" target="_blank">
+CAMITAX: Taxon labels for microbial genomes.
+</a></h3>
+Bremges <i>et al.</i> <b>(2019)</b>. <i>bioRxiv</i>, preprint.
+</div>
+
+<div class="pub" style="margin-top:2em">
+<h3 style="margin:0">
 <div class='altmetric-embed' data-badge-type='donut' data-condensed="true" style="display:inline; float:right; margin-left:1em" data-doi='10.1101/643676'></div>
 <a href="https://doi.org/10.1101/643676" target="_blank">
 Fighting antimicrobial resistance in <i>Pseudomonas aeruginosa</i> with machine learning-enabled molecular diagnostics.
@@ -29,15 +38,6 @@ Meyer, Bremges, <i>et al.</i> <b>(2019)</b>. <i>Genome Biology</i>, 20, 1:51.
 CAMISIM: Simulating metagenomes and microbial communities.
 </a></h3>
 Fritz*, Hofmann*, <i>et al.</i> <b>(2019)</b>. <i>Microbiome</i>, 7, 1:17.
-</div>
-
-<div class="pub" style="margin-top:2em">
-<h3 style="margin:0">
-<div class='altmetric-embed' data-badge-type='donut' data-condensed="true" style="display:inline; float:right; margin-left:1em" data-doi='10.1101/532473'></div>
-<a href="https://doi.org/10.1101/532473" target="_blank">
-CAMITAX: Taxon labels for microbial genomes.
-</a></h3>
-Bremges <i>et al.</i> <b>(2019)</b>. <i>bioRxiv</i>, preprint.
 </div>
 
 <div class="pub" style="margin-top:2em">
