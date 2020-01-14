@@ -6,11 +6,11 @@ layout: page
 
 <div class="pub">
 <h3 style="margin:0">
-<div class='altmetric-embed' data-badge-type='donut' data-condensed="true" style="display:inline; float:right; margin-left:1em" data-doi='10.1101/532473'></div>
-<a href="https://doi.org/10.1101/532473" target="_blank">
+<div class='altmetric-embed' data-badge-type='donut' data-condensed="true" style="display:inline; float:right; margin-left:1em" data-doi='10.1093/gigascience/giz154'></div>
+<a href="https://doi.org/10.1093/gigascience/giz154" target="_blank">
 CAMITAX: Taxon labels for microbial genomes.
 </a></h3>
-Bremges <i>et al.</i> <b>(2019)</b>. <i>GigaScience</i>, in press.
+Bremges <i>et al.</i> <b>(2020)</b>. <i>GigaScience</i>, 9, 1:1&ndash;7.
 </div>
 
 <div class="pub" style="margin-top:2em">
