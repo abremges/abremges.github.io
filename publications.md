@@ -6,20 +6,20 @@ layout: page
 
 <div class="pub">
 <h3 style="margin:0">
+<div class='altmetric-embed' data-badge-type='donut' data-condensed="true" style="display:inline; float:right; margin-left:1em" data-doi='10.15252/emmm.201910264'></div>
+<a href="https://doi.org/10.15252/emmm.201910264" target="_blank">
+Predicting antimicrobial resistance in <i>Pseudomonas aeruginosa</i> with machine learning‐enabled molecular diagnostics.
+</a></h3>
+Khaledi*, Weimann*, <i>et al.</i> <b>(2020)</b>. <i>EMBO Molecular Medicine</i>, e10264.
+</div>
+
+<div class="pub" style="margin-top:2em">
+<h3 style="margin:0">
 <div class='altmetric-embed' data-badge-type='donut' data-condensed="true" style="display:inline; float:right; margin-left:1em" data-doi='10.1093/gigascience/giz154'></div>
 <a href="https://doi.org/10.1093/gigascience/giz154" target="_blank">
 CAMITAX: Taxon labels for microbial genomes.
 </a></h3>
 Bremges <i>et al.</i> <b>(2020)</b>. <i>GigaScience</i>, 9, 1:1&ndash;7.
-</div>
-
-<div class="pub" style="margin-top:2em">
-<h3 style="margin:0">
-<div class='altmetric-embed' data-badge-type='donut' data-condensed="true" style="display:inline; float:right; margin-left:1em" data-doi='10.1101/643676'></div>
-<a href="https://doi.org/10.1101/643676" target="_blank">
-Predicting antimicrobial resistance with molecular diagnostics.
-</a></h3>
-Khaledi*, Weimann*, <i>et al.</i> <b>(2019)</b>. <i>EMBO Molecular Medicine</i>, in press.
 </div>
 
 <div class="pub" style="margin-top:2em">
