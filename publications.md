@@ -6,6 +6,15 @@ layout: page
 
 <div class="pub">
 <h3 style="margin:0">
+<div class='altmetric-embed' data-badge-type='donut' data-condensed="true" style="display:inline; float:right; margin-left:1em" data-doi='10.1101/2020.08.11.245712'></div>
+<a href="https://doi.org/10.1101/2020.08.11.245712" target="_blank">
+Tutorial: Assessing metagenomics software with the CAMI benchmarking toolkit.
+</a></h3>
+Meyer, <i>et al.</i> <b>(2020)</b>. <i>bioRxiv</i>, preprint.
+</div>
+
+<div class="pub" style="margin-top:2em">
+<h3 style="margin:0">
 <div class='altmetric-embed' data-badge-type='donut' data-condensed="true" style="display:inline; float:right; margin-left:1em" data-doi='10.15252/emmm.201910264'></div>
 <a href="https://doi.org/10.15252/emmm.201910264" target="_blank">
 Predicting antimicrobial resistance in <i>Pseudomonas aeruginosa</i> with machine learning‐enabled molecular diagnostics.
