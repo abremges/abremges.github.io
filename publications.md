@@ -6,11 +6,20 @@ layout: page
 
 <div class="pub">
 <h3 style="margin:0">
+<div class='altmetric-embed' data-badge-type='donut' data-condensed="true" style="display:inline; float:right; margin-left:1em" data-doi='10.1101/2021.01.25.428049'></div>
+<a href="https://doi.org/10.1101/2021.01.25.428049" target="_blank">
+Haploflow: Strain-resolved <i>de novo</i> assembly of viral genomes.
+</a></h3>
+Fritz, Bremges, <i>et al.</i> <b>(2021)</b>. <i>bioRxiv</i>, preprint.
+</div>
+
+<div class="pub" style="margin-top:2em">
+<h3 style="margin:0">
 <div class='altmetric-embed' data-badge-type='donut' data-condensed="true" style="display:inline; float:right; margin-left:1em" data-doi='10.1101/2020.08.11.245712'></div>
 <a href="https://doi.org/10.1101/2020.08.11.245712" target="_blank">
 Tutorial: Assessing metagenomics software with the CAMI benchmarking toolkit.
 </a></h3>
-Meyer, <i>et al.</i> <b>(2020)</b>. <i>bioRxiv</i>, preprint.
+Meyer <i>et al.</i> <b>(2021)</b>. <i>Nature Protocols</i>, in press.
 </div>
 
 <div class="pub" style="margin-top:2em">
