@@ -10,7 +10,7 @@ layout: page
 <a href="https://doi.org/10.1038/s41592-022-01431-4" target="_blank">
 Critical Assessment of Metagenome Interpretation: the second round of challenges.
 </a></h3>
-Meyer*, Fritz*, <i>et al.</i> <b>(2021)</b>. <i>Nature Methods</i>, 19, 4:429&ndash;440.
+Meyer*, Fritz*, <i>et al.</i> <b>(2022)</b>. <i>Nature Methods</i>, 19, 4:429&ndash;440.
 </div>
 
 <div class="pub" style="margin-top:2em">
