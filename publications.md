@@ -6,20 +6,29 @@ layout: page
 
 <div class="pub">
 <h3 style="margin:0">
-<div class='altmetric-embed' data-badge-type='donut' data-condensed="true" style="display:inline; float:right; margin-left:1em" data-doi='10.1101/2021.01.25.428049'></div>
-<a href="https://doi.org/10.1101/2021.01.25.428049" target="_blank">
-Haploflow: Strain-resolved <i>de novo</i> assembly of viral genomes.
+<div class='altmetric-embed' data-badge-type='donut' data-condensed="true" style="display:inline; float:right; margin-left:1em" data-doi='10.1038/s41592-022-01431-4'></div>
+<a href="https://doi.org/10.1038/s41592-022-01431-4" target="_blank">
+Critical Assessment of Metagenome Interpretation: the second round of challenges.
 </a></h3>
-Fritz, Bremges, <i>et al.</i> <b>(2021)</b>. <i>bioRxiv</i>, preprint.
+Meyer*, Fritz*, <i>et al.</i> <b>(2021)</b>. <i>Nature Methods</i>, 19, 4:429&ndash;440.
 </div>
 
 <div class="pub" style="margin-top:2em">
 <h3 style="margin:0">
-<div class='altmetric-embed' data-badge-type='donut' data-condensed="true" style="display:inline; float:right; margin-left:1em" data-doi='10.1101/2020.08.11.245712'></div>
-<a href="https://doi.org/10.1101/2020.08.11.245712" target="_blank">
+<div class='altmetric-embed' data-badge-type='donut' data-condensed="true" style="display:inline; float:right; margin-left:1em" data-doi='10.1186/s13059-021-02426-8'></div>
+<a href="https://doi.org/10.1186/s13059-021-02426-8" target="_blank">
+Haploflow: Strain-resolved <i>de novo</i> assembly of viral genomes.
+</a></h3>
+Fritz, Bremges, <i>et al.</i> <b>(2021)</b>. <i>Genome Biology</i>, 22, 1:212.
+</div>
+
+<div class="pub" style="margin-top:2em">
+<h3 style="margin:0">
+<div class='altmetric-embed' data-badge-type='donut' data-condensed="true" style="display:inline; float:right; margin-left:1em" data-doi='10.1038/s41596-020-00480-3'></div>
+<a href="https://doi.org/10.1038/s41596-020-00480-3" target="_blank">
 Tutorial: Assessing metagenomics software with the CAMI benchmarking toolkit.
 </a></h3>
-Meyer <i>et al.</i> <b>(2021)</b>. <i>Nature Protocols</i>, in press.
+Meyer <i>et al.</i> <b>(2021)</b>. <i>Nature Protocols</i>, 16, 4:1785&ndash;1801.
 </div>
 
 <div class="pub" style="margin-top:2em">
@@ -28,7 +37,7 @@ Meyer <i>et al.</i> <b>(2021)</b>. <i>Nature Protocols</i>, in press.
 <a href="https://doi.org/10.15252/emmm.201910264" target="_blank">
 Predicting antimicrobial resistance in <i>Pseudomonas aeruginosa</i> with machine learning‐enabled molecular diagnostics.
 </a></h3>
-Khaledi*, Weimann*, <i>et al.</i> <b>(2020)</b>. <i>EMBO Molecular Medicine</i>, e10264.
+Khaledi*, Weimann*, <i>et al.</i> <b>(2020)</b>. <i>EMBO Molecular Medicine</i>, 12, 3:e10264.
 </div>
 
 <div class="pub" style="margin-top:2em">
