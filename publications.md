@@ -6,6 +6,15 @@ layout: page
 
 <div class="pub">
 <h3 style="margin:0">
+<div class='altmetric-embed' data-badge-type='donut' data-condensed="true" style="display:inline; float:right; margin-left:1em" data-doi='10.1038/s41564-025-02116-2'></div>
+<a href="https://doi.org/10.1038/s41564-025-02116-2" target="_blank">
+A roadmap for equitable reuse of public microbiome data.
+</a></h3>
+Hug <i>et al.</i> <b>(2025)</b>. <i>Nature Microbiology</i>, in press.
+</div>
+
+<div class="pub" style="margin-top:2em">
+<h3 style="margin:0">
 <div class='altmetric-embed' data-badge-type='donut' data-condensed="true" style="display:inline; float:right; margin-left:1em" data-doi='10.1038/s41592-022-01431-4'></div>
 <a href="https://doi.org/10.1038/s41592-022-01431-4" target="_blank">
 Critical Assessment of Metagenome Interpretation: the second round of challenges.
