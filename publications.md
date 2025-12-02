@@ -6,11 +6,20 @@ layout: page
 
 <div class="pub">
 <h3 style="margin:0">
+<div class='altmetric-embed' data-badge-type='donut' data-condensed="true" style="display:inline; float:right; margin-left:1em" data-doi='10.1038/s41564-025-02186-2'></div>
+<a href="https://doi.org/10.1038/s41564-025-02186-2" target="_blank">
+STREAMS guidelines: standards for technical reporting in environmental and host-associated microbiome studies.
+</a></h3>
+Kelliher <i>et al.</i> <b>(2025)</b>. <i>Nature Microbiology</i>, 10, 3059&ndash;3068.
+</div>
+
+<div class="pub" style="margin-top:2em">
+<h3 style="margin:0">
 <div class='altmetric-embed' data-badge-type='donut' data-condensed="true" style="display:inline; float:right; margin-left:1em" data-doi='10.1038/s41564-025-02116-2'></div>
 <a href="https://doi.org/10.1038/s41564-025-02116-2" target="_blank">
 A roadmap for equitable reuse of public microbiome data.
 </a></h3>
-Hug <i>et al.</i> <b>(2025)</b>. <i>Nature Microbiology</i>, in press.
+Hug <i>et al.</i> <b>(2025)</b>. <i>Nature Microbiology</i>, 10, 2384&ndash;2395.
 </div>
 
 <div class="pub" style="margin-top:2em">
