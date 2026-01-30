@@ -10,7 +10,7 @@ layout: page
 <a href="https://doi.org/foo/bar" target="_blank">
 Monocentric, vehicle-controlled, double-blind study to assess the short- and long-term effects of a Ceramide NP C15-containing emollient on the skin microbiome and the skin barrier function in sensitive skin.
 </a></h3>
-Dimmers <i>et al.</i> <b>(2025)</b>. <i>Skin Pharmacology and Physiology</i>, accepted for publication.
+Dimmers <i>et al.</i> <b>(2026)</b>. <i>Skin Pharmacology and Physiology</i>, accepted.
 </div>
 
 <div class="pub" style="margin-top:2em">
