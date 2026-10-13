@@ -7,6 +7,15 @@ layout: page
 <div class="pub">
 <h3 style="margin:0">
 <div class='altmetric-embed' data-badge-type='donut' data-condensed="true" style="display:inline; float:right; margin-left:1em" data-doi='10.1159/000551043'></div>
+<a href="https://doi.org/foo/bar" target="_blank">
+A <i>Bacillus subtilis</i> strain with high proficiency for biofilm formation delays the onset of aging-associated morphological defects in cholinergic neurons of <i>C. elegans</i>.
+</a></h3>
+Gong <i>et al.</i> <b>(2026)</b>. <i>GeroScience</i>, in press.
+</div>
+
+<div class="pub" style="margin-top:2em">
+<h3 style="margin:0">
+<div class='altmetric-embed' data-badge-type='donut' data-condensed="true" style="display:inline; float:right; margin-left:1em" data-doi='10.1159/000551043'></div>
 <a href="https://doi.org/10.1159/000551043" target="_blank">
 Monocentric, vehicle-controlled, double-blind study to assess the short- and long-term effects of a Ceramide NP C15-containing emollient on the skin microbiome and the skin barrier function in sensitive skin.
 </a></h3>
